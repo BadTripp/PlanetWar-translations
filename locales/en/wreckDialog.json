@@ -1,0 +1,15 @@
+{
+  "destroyed": "DESTROYED",
+  "hullIntegrity0": "HULL INTEGRITY 0%",
+  "shipDestroyed": "Ship destroyed",
+  "repairAllGear": "REPAIR ALL GEAR",
+  "yourAether": "<span>YOUR AETHER</span><b>{aether} {CURRENCY_TAG}</b>",
+  "yourModulesCameThrough": "Your modules came through intact.",
+  "noDamageToYour": "No damage to your equipment.",
+  "repairMostWorn": "Repair most worn & respawn",
+  "repairRespawn": "Repair & respawn",
+  "respawnWithoutRepairing": "Respawn without repairing",
+  "respawn": "Respawn",
+  "respawning": "RESPAWNING…",
+  "autoRespawnWithoutRepairsIn": "AUTO-RESPAWN WITHOUT REPAIRS IN {left}s"
+}

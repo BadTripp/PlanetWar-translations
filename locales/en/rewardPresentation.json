@@ -1,0 +1,18 @@
+{
+  "riftCleared": "Rift cleared: {title}",
+  "riftCleared2": "✦ RIFT CLEARED ✦",
+  "clickToContinue": "Click to continue",
+  "credits": "Credits",
+  "experience": "Experience",
+  "aether": "Aether",
+  "dataCores": "Data cores",
+  "riftKeys": "Rift keys",
+  "honor": "Honor",
+  "riftKey": "Rift key",
+  "dailyChest": "✦ DAILY CHEST",
+  "opening": "Opening…",
+  "unlocked": "Unlocked!",
+  "rewards": "✦ {count, plural, one {# REWARD} other {# REWARDS}}",
+  "reward": "✦ REWARD",
+  "chest": "<i class=\"cr-chest-ic\">▣</i><span>Chest</span>"
+}

@@ -1,0 +1,20 @@
+{
+  "1.name": "Helix Forge",
+  "1.title": "Officine Helix Forge",
+  "1.focus": "Industria pesante",
+  "1.motto": "Brucia tutto. Ricostruisci tutto.",
+  "1.desc": "Stazioni-fornace e flotte corazzate. Helix non si ritira mai: manda una nave più grossa.",
+  "1.story": "Helix Forge trasforma i relitti in navi da guerra. Le sue fonderie nei campi di Ember non si spengono mai, alimentate da minerale strappato agli alveari alieni. I rivali la chiamano avventata. Helix la chiama una scadenza.",
+  "2.name": "Terra Vanguard",
+  "2.title": "Gruppo Terra Vanguard",
+  "2.focus": "Esplorazione e difesa della flotta",
+  "2.motto": "Tenere la linea.",
+  "2.desc": "Primi a varcare ogni nuovo varco, ultimi a lasciarlo. Flotte di pattuglia che difendono ciò che trovano.",
+  "2.story": "Terra Vanguard ha perso più stazioni a causa degli sciami di qualsiasi rivale, e le ha ricostruite tutte. Le sue pattuglie presidiano i varchi di Azure e tendono imboscate a chiunque passi senza bandiera.",
+  "3.name": "Solis Union",
+  "3.title": "Unione delle Risorse Solis",
+  "3.focus": "Risorse e ricerca",
+  "3.motto": "Prendi ciò che lo sciame lascia.",
+  "3.desc": "Cacciatori pazienti. Studiano gli sciami, poi raffinano più di tutti.",
+  "3.story": "Solis Union studia gli alieni prima di sparare. I suoi laboratori nel settore Verdant sanno cosa lascia ogni sciame e dove. Nessuno raffina più minerale, e a nessuno piace essere preso in un'imboscata da loro."
+}

@@ -1,0 +1,16 @@
+{
+  "x1.name": "Cella a impulsi",
+  "x2.name": "Cella ad arco",
+  "x3.name": "Cella al plasma",
+  "x4.name": "Burst Cell",
+  "x6.name": "Cella a sbarramento",
+  "sab.name": "Cella sifone",
+  "r1.name": "Razzo dardo",
+  "r2.name": "Razzo lancia",
+  "r3.name": "Siluro",
+  "eco.name": "Razzo a salva I",
+  "hst.name": "Razzo a salva II",
+  "ubr.name": "Razzo a salva III",
+  "mine.name": "Proximity Mine",
+  "cloak.name": "Carica di occultamento"
+}

@@ -1,0 +1,7 @@
+{
+  "writeAtLeastA": "Scrivi almeno qualche parola.",
+  "reportsAreNotConfigured": "Le segnalazioni non sono configurate su questo server.",
+  "pleaseWaitSBefore": "Attendi {length}s prima di inviare un'altra segnalazione.",
+  "tooManyReportsThis": "Troppe segnalazioni in quest'ora. Grazie, riprova più tardi.",
+  "couldNotSendThe": "Impossibile inviare la segnalazione ora. Riprova tra poco."
+}

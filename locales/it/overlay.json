@@ -1,0 +1,20 @@
+{
+  "confirmAction": "CONFERMA AZIONE",
+  "cancel": "Annulla",
+  "confirm": "Conferma",
+  "closeTutorial": "Chiudi il tutorial",
+  "trainingComplete": "Addestramento completato",
+  "trainingComplete2": "<small class=\"tw-kicker\">ADDESTRAMENTO COMPLETATO</small>",
+  "huntTheSwarmsHold": "Dai la caccia agli sciami. Difendi il tuo settore.",
+  "enterTheGalaxy": "Entra nella galassia",
+  "researchUnlocksAtLevel": "La ricerca si sblocca al livello 3. Puoi rigiocare il tutorial in qualsiasi momento dalle Impostazioni.",
+  "chapter": "CAPITOLO {chapterNo}/{chapters} · {toUpperCase}",
+  "closeTheLesson": "Chiudi la lezione",
+  "skipTheTutorial": "Salta il tutorial",
+  "skipStep": "Salta il passaggio",
+  "finish": "Fine",
+  "next": "Avanti",
+  "welcomeTo": "BENVENUTO IN",
+  "planetWar": "PLANET WAR",
+  "rewardsAlreadyCollectedOn": "Ricompense già ritirate al tuo primo avvio."
+}

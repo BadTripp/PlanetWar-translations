@@ -1,0 +1,7 @@
+{
+  "noEscapeDuringA": "No escape during a wave.",
+  "thisEventIsClosed": "This event is closed.",
+  "thisRiftIsNot": "This rift is not open.",
+  "theClanRiftIs": "The clan rift is full ({CLAN_RIFT_MAX_PILOTS} pilots).",
+  "youNeedLevelTo": "You need level {minLevel} to enter {name}."
+}

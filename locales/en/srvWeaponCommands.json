@@ -1,0 +1,7 @@
+{
+  "equipASalvoRack": "Equip a Salvo Rack.",
+  "depleted": "{name}: depleted.",
+  "selectATarget": "Select a target.",
+  "rackStillLoadingRockets": "Rack still loading… rockets load one by one.",
+  "noSalvoRocketsIn": "No salvo rockets in stock: buy Salvo Rockets in Shop → Ammo, then pick the type in the hotbar."
+}

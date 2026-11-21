@@ -1,0 +1,11 @@
+{
+  "confirmAction": "CONFERMA AZIONE",
+  "noFreeHangar": "NESSUN HANGAR LIBERO",
+  "cancel": "Annulla",
+  "confirm": "Conferma",
+  "replaceTakesItsHangar": "<b>Sostituisci {name}</b><span>{name2} prende il suo hangar per {price} {currency}. I moduli tornano nel tuo inventario.</span>",
+  "buyAHangar": "Acquista un hangar",
+  "aetherInTheShop": "{hp} Aether nello Shop, così tieni entrambe le navi.",
+  "youAlreadyOwnEvery": "Possiedi già ogni hangar.",
+  "allHangarsInUse": "{slots, plural, one {Il tuo # hangar è} other {I tuoi # hangar sono}} tutti occupati. Scegli cosa fare:"
+}

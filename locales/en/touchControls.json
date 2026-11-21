@@ -1,0 +1,10 @@
+{
+  "shipStatus": "Ship status",
+  "switchWeaponConfiguration": "Switch weapon configuration",
+  "cfg1": "<small>CFG</small><b>1</b>",
+  "nextTargetHoldTo": "Next target (hold to clear)",
+  "collectEverythingNearby": "Collect everything nearby",
+  "attack": "Attack",
+  "attack2": "<span class=\"tc-aimring\" aria-hidden=\"true\"></span><span class=\"tc-face\">{attack}<span class=\"tc-label\">ATTACK</span></span>",
+  "aim": "AIM"
+}

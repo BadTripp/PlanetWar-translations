@@ -1,0 +1,10 @@
+{
+  "persistenceUnavailableReconnectBefor": "Salvataggio non disponibile: riconnettiti prima di commerciare.",
+  "itemSold": "Oggetto venduto.",
+  "invalidPurchaseId": "ID acquisto non valido.",
+  "richiestaScadutaRipetiLAcquisto": "Richiesta scaduta: ripeti l'acquisto.",
+  "acquistiDimostrativiDisabilitati": "Gli acquisti dimostrativi sono disabilitati.",
+  "persistenceUnavailableReconnectBefor2": "Salvataggio non disponibile: riconnettiti prima di acquistare.",
+  "simulationCompleteNoReal": "Simulazione completata: nessun addebito reale.",
+  "purchaseComplete": "Acquisto completato."
+}

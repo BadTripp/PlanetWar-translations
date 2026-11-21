@@ -1,0 +1,7 @@
+{
+  "unlocksAtLevel": "🔒 Si sblocca al livello {k}",
+  "command": "Comando",
+  "isInItsOwn": "<i>{detachIcon}</i><b>{t} è nella sua finestra</b>",
+  "dockingItBackReturns": "Riagganciandola, torna qui.",
+  "dockBack": "Riaggancia"
+}

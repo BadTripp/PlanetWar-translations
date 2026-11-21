@@ -1,0 +1,18 @@
+{
+  "invalidRefiningQuantity": "Quantità di raffinazione non valida.",
+  "notEnoughOre": "Minerale insufficiente.",
+  "invalidOreOrQuantity": "Minerale o quantità non validi.",
+  "confirmTheOreReplacement": "Conferma la sostituzione del minerale.",
+  "oneHangarPerPurchase": "Un hangar per acquisto.",
+  "youAlreadyOwnEvery": "Possiedi già ogni hangar.",
+  "notEnoughAether": "Aether insufficiente.",
+  "invalidQuantity": "Quantità non valida.",
+  "purchaseUnavailable": "Acquisto non disponibile.",
+  "maximum8UavsOwned": "Massimo 8 UAV posseduti. Vendi prima un drone.",
+  "oneShipPerPurchase": "Una nave per acquisto.",
+  "alreadyOwned": "Già posseduto.",
+  "formationsUnlockAtLevel": "Le formazioni si sbloccano al livello {FORMATION_UNLOCK_LEVEL}.",
+  "buyTheShipFirst": "Acquista prima la nave.",
+  "notEnoughCredits": "Crediti insufficienti.",
+  "noFreeHangarReplace": "Nessun hangar libero: sostituisci la nave attuale o acquista un hangar nello Shop."
+}

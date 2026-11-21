@@ -1,0 +1,9 @@
+{
+  "nameMissingOrAmbiguous": "Nome mancante o ambiguo: seleziona il giocatore sulla mappa.",
+  "thatPlayerIsAlready": "Quel giocatore è già in un gruppo.",
+  "onlyTheGroupLeader": "Solo il capogruppo può invitare.",
+  "groupFull88": "Gruppo pieno (8/8).",
+  "inviteSentTo": "Invito inviato a {name}.",
+  "inviteExpired": "Invito scaduto.",
+  "theGroupIsNo": "Il gruppo non è più disponibile."
+}

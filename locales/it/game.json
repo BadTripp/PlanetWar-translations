@@ -1,0 +1,22 @@
+{
+  "noTargetPressAttack": "Nessun bersaglio: premi ATTACCA per scegliere il nemico più vicino.",
+  "selectATargetFirst": "Seleziona prima un bersaglio (clicca un alieno).",
+  "resetResearch": "Azzera ricerca",
+  "resetYourResearch": "Azzerare la tua ricerca?",
+  "targetingJammedByAn": "Mira disturbata da un EMP.",
+  "sector": "SETTORE {name}",
+  "noEnemyInSight": "Nessun nemico in vista.",
+  "cargoReservedForAnother": "Carico riservato a un altro gruppo.",
+  "extracting": "ESTRAZIONE · {node}",
+  "reserved": "RISERVATO",
+  "salvage": "RECUPERO",
+  "lostCargo": "CARICO PERSO",
+  "supplyCache": "DEPOSITO DI SCORTE",
+  "boss": "BOSS · ",
+  "gateCharging": "VARCO IN CARICA · {name}",
+  "tapToJumpTo": "TOCCA PER SALTARE A {name}",
+  "clickOrPressJ": "CLICCA O PREMI J · SALTA A {name}",
+  "vsyncOnMonitorLimited": "  (VSync attivo: limitato dal monitor)",
+  "cap": "  (limite {fpsCap})",
+  "uncapped": "  (illimitato)"
+}

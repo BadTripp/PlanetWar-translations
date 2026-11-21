@@ -1,0 +1,8 @@
+{
+  "cr": "+{n} CR",
+  "xp": "+{n} XP",
+  "ae": "+{n} AE",
+  "cores": "+{n} Data cores",
+  "keys": "+{n, plural, one {# rift key} other {# rift keys}}",
+  "honor": "+{n} honor"
+}

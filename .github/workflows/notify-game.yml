@@ -1,0 +1,12 @@
+name: Notify the game repository
+on:
+  push:
+    branches: [main]
+    paths: ['locales/**']
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl -fsS -X POST -H "Authorization: Bearer ${{ secrets.GAME_REPO_TOKEN }}" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ secrets.GAME_REPO }}/dispatches -d '{"event_type":"translations-updated"}'

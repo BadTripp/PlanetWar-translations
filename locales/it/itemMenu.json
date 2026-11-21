@@ -1,0 +1,14 @@
+{
+  "cr": "CR",
+  "cr2": " + {upgrades} CR",
+  "click": "Clic",
+  "needMore": "Servono altri {aether} {CURRENCY_TAG}",
+  "wearLowersTheSale": "L'usura abbassa il prezzo di vendita fino al 50%.",
+  "sellingRemovesItFrom": "Vendendolo lo rimuovi dalla tua configurazione.",
+  "actions": "Azioni su {name}",
+  "fitted": "Montato",
+  "inInventory": "Nell'inventario",
+  "condition": "condizione {cond}%",
+  "pristine": " · Perfetto",
+  "confirmSale": "<span>Conferma vendita</span><em>{saleText}</em>"
+}

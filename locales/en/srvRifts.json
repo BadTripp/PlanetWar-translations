@@ -1,0 +1,7 @@
+{
+  "unknownRift": "Unknown rift.",
+  "invalidProbeCount": "Invalid probe count.",
+  "isAlreadyOpenEnter": "{name} is already open: enter it from your X-1 sector.",
+  "noRiftKeysAnd": "No rift keys and not enough Aether: a probe costs {RIFT_PROBE_COST}.",
+  "noRiftKeysLeft": "No rift keys left: enable Aether to keep probing."
+}

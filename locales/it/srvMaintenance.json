@@ -1,0 +1,6 @@
+{
+  "partialRepairs": "Riparazioni parziali: −{cost, number} Aether. Ripara il resto in Equipaggiamento: clic destro su un oggetto, oppure usa Ripara tutto.",
+  "repairsComplete": "Riparazioni complete: −{cost, number} Aether.",
+  "repairedFor": "Riparato per {cost, number} Aether.",
+  "upgradeInstalled": "Potenziamento installato: −{cost, number} CR."
+}

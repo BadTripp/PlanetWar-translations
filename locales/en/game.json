@@ -1,0 +1,22 @@
+{
+  "noTargetPressAttack": "No target: press ATTACK to pick the nearest enemy.",
+  "selectATargetFirst": "Select a target first (click an alien).",
+  "resetResearch": "Reset research",
+  "resetYourResearch": "Reset your research?",
+  "targetingJammedByAn": "Targeting jammed by an EMP.",
+  "sector": "SECTOR {name}",
+  "noEnemyInSight": "No enemy in sight.",
+  "cargoReservedForAnother": "Cargo reserved for another group.",
+  "extracting": "EXTRACTING · {node}",
+  "reserved": "RESERVED",
+  "salvage": "SALVAGE",
+  "lostCargo": "LOST CARGO",
+  "supplyCache": "SUPPLY CACHE",
+  "boss": "BOSS · ",
+  "gateCharging": "GATE CHARGING · {name}",
+  "tapToJumpTo": "TAP TO JUMP TO {name}",
+  "clickOrPressJ": "CLICK OR PRESS J · JUMP TO {name}",
+  "vsyncOnMonitorLimited": "  (VSync on: monitor-limited)",
+  "cap": "  (cap {fpsCap})",
+  "uncapped": "  (uncapped)"
+}

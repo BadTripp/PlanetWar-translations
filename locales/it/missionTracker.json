@@ -1,0 +1,10 @@
+{
+  "missions": "Missioni",
+  "daily": "Giornaliero",
+  "weekly": "Settimanale",
+  "milestone": "{ready} traguardo",
+  "ready": "pronto",
+  "openCareerMilestones": "Apri i traguardi di carriera",
+  "collectEveryReadyMilestone": "Ritira ogni ricompensa di traguardo pronta",
+  "collectAll": "Ritira tutto"
+}

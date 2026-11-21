@@ -1,0 +1,16 @@
+{
+  "addASlotUp": "Aggiungi uno slot (fino a 20)",
+  "addAHexagonSlot": "Aggiungi uno slot esagonale",
+  "useAnyItemEven": "Usa qualsiasi oggetto, anche se non è sulla barra rapida · trascinalo su uno slot",
+  "useMenuAmmoRockets": "Menu uso: munizioni, razzi, CPU ed extra",
+  "resetSlotLayout": "Ripristina la disposizione degli slot",
+  "resetHotbarLayout": "Ripristina la disposizione della barra rapida",
+  "editSlotsDragTo": "Modifica gli slot; trascina per disporli su desktop",
+  "editHotbarSlots": "Modifica gli slot della barra rapida",
+  "collapseExpand": "Comprimi / espandi",
+  "collapseOrExpand": "Comprimi o espandi",
+  "hudHiddenPress": "HUD nascosto · premi H per mostrarlo",
+  "dragToMove": "Trascina per spostare",
+  "finishEditingHotbarSlots": "Termina la modifica degli slot",
+  "minimapSize": "Dimensione della minimappa"
+}

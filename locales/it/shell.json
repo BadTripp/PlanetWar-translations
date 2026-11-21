@@ -1,0 +1,20 @@
+{
+  "otherSlots": "Altri slot",
+  "showSlots6To": "Mostra gli slot da 6 a 10",
+  "chooseSlotItem": "Scegli l'oggetto dello slot",
+  "tapASlotTo": "Tocca uno slot per mettere {pendingAssign}",
+  "unlocksAtLevel": "{key} si sblocca al livello {key2}",
+  "hotbarLayoutReset": "Disposizione della barra rapida ripristinata",
+  "theHotbarHoldsUp": "La barra rapida contiene fino a {HOTBAR_MAX} slot",
+  "slotRemoved": "Slot {i} rimosso",
+  "thatIsNotA": "Questo non è un codice di invito valido.",
+  "chatUnread": "Chat · {chatUnread} non lette",
+  "droneFormations": "Formazioni di droni",
+  "destinationReached": "Destinazione raggiunta · {name}",
+  "routeSet": "Rotta impostata · {name}",
+  "clanInviteReceived": "Invito al clan ricevuto",
+  "copyIsNotAvailable": "La copia non è disponibile qui",
+  "isIn": "{name} si trova in {name2}",
+  "wavesSurvived": "{length, plural, one {# ondata superata} other {# ondate superate}}",
+  "previewCleared": "[anteprima] {name} completata"
+}

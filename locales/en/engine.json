@@ -1,0 +1,22 @@
+{
+  "shop": "Shop",
+  "equipment": "Equipment",
+  "missions": "Missions",
+  "research": "Research",
+  "galaxy": "Galaxy",
+  "hangar": "Hangar",
+  "refinery": "Refinery",
+  "pilot": "Pilot",
+  "open": "Open {k}",
+  "toContinue": "To continue (“{title}”), click the highlighted “{k}” button.",
+  "openTheCommandMenu": "Open the Command menu",
+  "toContinue2": "To continue (“{title}”), open the Command menu: tap the ☰ button.",
+  "backTo": "Back to {hub}",
+  "thisStepIsIn": "This step is in “{hub}”. Tap it in the list.",
+  "backToTheMenu": "Back to the menu",
+  "tapMenuToSee": "Tap “Menu” to see every section again.",
+  "credits": "Credits",
+  "dataCores": "Data cores",
+  "skipTutorial": "Skip tutorial?",
+  "youCanReplayThe": "You can replay the tutorial from Settings."
+}

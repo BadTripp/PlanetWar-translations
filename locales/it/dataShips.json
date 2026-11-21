@@ -1,0 +1,22 @@
+{
+  "sparrow.name": "Sparrow",
+  "sparrow.role": "Esploratore",
+  "kestrel.name": "Kestrel",
+  "kestrel.role": "Disgregatore",
+  "aegis.name": "Baluardo",
+  "aegis.role": "Guardiano",
+  "warden.name": "Warden",
+  "warden.role": "Supporto",
+  "bastion.name": "Rampart",
+  "bastion.role": "Assalto",
+  "barracuda.name": "Barracuda",
+  "barracuda.role": "Intercettore",
+  "hauler.name": "Hauler",
+  "hauler.role": "Industriale",
+  "colossus.name": "Colossus",
+  "colossus.role": "Tank pesante",
+  "stiletto.name": "Stiletto",
+  "stiletto.role": "Assassino",
+  "sovereign.name": "Sovereign",
+  "sovereign.role": "Artiglieria"
+}

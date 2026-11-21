@@ -1,0 +1,8 @@
+{
+  "cr": "+{n} CR",
+  "xp": "+{n} XP",
+  "ae": "+{n} AE",
+  "cores": "+{n} nuclei dati",
+  "keys": "+{n, plural, one {# chiave di faglia} other {# chiavi di faglia}}",
+  "honor": "+{n} onore"
+}

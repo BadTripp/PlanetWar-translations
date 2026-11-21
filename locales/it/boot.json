@@ -1,0 +1,11 @@
+{
+  "connecting": "Connessione al server…",
+  "reload": "Ricarica",
+  "failed": "Connessione fallita.",
+  "lost": "Connessione persa.",
+  "otherWindow": "Accesso effettuato da un'altra finestra.",
+  "error": "Errore: {message}",
+  "updating": "Aggiornamento del server in corso — riconnessione…",
+  "reconnecting": "Connessione persa — riconnessione…",
+  "online": "● {online} online"
+}

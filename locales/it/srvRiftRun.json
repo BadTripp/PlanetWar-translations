@@ -1,0 +1,8 @@
+{
+  "noClearRewardYou": "Nessuna ricompensa finale: devi superare almeno {need} ondate dentro la faglia.",
+  "collapsedNoLivesLeft": "{name} è crollata: nessuna vita rimasta. I frammenti della faglia sono persi.",
+  "checkpointWave": "Checkpoint · ondata {wave}",
+  "wavesSurvived": "{length, plural, one {# ondata superata} other {# ondate superate}}",
+  "riftClearedCollectYour": "Faglia completata! Raccogli il bottino, poi prendi il portale d'uscita quando sei pronto.",
+  "destroyedLivesLeft": "{name} è stato distrutto: {lives, plural, one {# vita rimasta} other {# vite rimaste}}."
+}

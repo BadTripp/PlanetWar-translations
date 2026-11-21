@@ -1,0 +1,16 @@
+{
+  "escort.name": "Escort",
+  "escort.desc": "Drones trail behind the ship.",
+  "wedge.name": "Wedge",
+  "wedge.desc": "A V ahead of the ship: sharper guns, thinner shields.",
+  "bulwark.name": "Bulwark",
+  "bulwark.desc": "A wall of drones in front: tougher shields, slower.",
+  "diamond.name": "Diamond",
+  "diamond.desc": "A balanced diamond around the ship.",
+  "orbit.name": "Orbit",
+  "orbit.desc": "Drones circle the ship, reinforcing shields and thrust.",
+  "helix.name": "Helix",
+  "helix.desc": "Two counter-rotating rings: heavy damage, lighter hull.",
+  "pulse.name": "Pulse",
+  "pulse.desc": "A breathing ring: fast and sharp, shields suffer."
+}

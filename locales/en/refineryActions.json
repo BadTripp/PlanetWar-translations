@@ -1,0 +1,6 @@
+{
+  "dumpCargo": "Dump cargo",
+  "dumpAllIt": "Dump all {key}? It will be lost.",
+  "replaceBoost": "Replace boost",
+  "replaceWithThe": "Replace {ore} with {key}? The remaining bonus will be lost."
+}

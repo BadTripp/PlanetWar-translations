@@ -1,0 +1,7 @@
+{
+  "unlocksAtLevel": "🔒 Unlocks at level {k}",
+  "command": "Command",
+  "isInItsOwn": "<i>{detachIcon}</i><b>{t} is in its own window</b>",
+  "dockingItBackReturns": "Docking it back returns it here.",
+  "dockBack": "Dock back"
+}

@@ -1,0 +1,6 @@
+{
+  "moduleUpgradesAreNo": "Module upgrades are no longer available.",
+  "onlyLasersAndShield": "Only lasers and shield generators can be upgraded.",
+  "alreadyAtTheMaximum": "Already at the maximum upgrade level.",
+  "notEnoughCreditsTheUpgrade": "Not enough credits: the upgrade costs {cost, number}."
+}

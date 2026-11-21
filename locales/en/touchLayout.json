@@ -1,0 +1,15 @@
+{
+  "attack": "Attack",
+  "weaponConfiguration": "Weapon configuration",
+  "nextTarget": "Next target",
+  "collect": "Collect",
+  "hotbarPage": "Hotbar page",
+  "useMenu": "Use menu",
+  "hotbarSlot": "Hotbar slot {i}",
+  "customizeTouchButtons": "Customize touch buttons",
+  "dragTheButtonsWhere": "Drag the buttons where you like them. With a keyboard, focus a button and use the arrow keys.",
+  "reset": "Reset",
+  "done": "Done",
+  "buttonsBackInTheir": "Buttons back in their default places.",
+  "across": "{hit}: {innerWidth}% across, {innerHeight}% down."
+}

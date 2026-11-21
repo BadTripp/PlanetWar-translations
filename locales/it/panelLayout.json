@@ -1,0 +1,22 @@
+{
+  "command": "COMANDO",
+  "identity": "IDENTITÀ",
+  "flightSystems": "SISTEMI DI VOLO",
+  "fleet": "FLOTTA",
+  "supply": "RIFORNIMENTI",
+  "operations": "OPERAZIONI",
+  "navigation": "NAVIGAZIONE",
+  "squadron": "SQUADRIGLIA",
+  "comms": "COMUNICAZIONI",
+  "materials": "MATERIALI",
+  "research": "RICERCA",
+  "exchange": "SCAMBIO",
+  "signal": "SEGNALE",
+  "rifts": "FAGLIE",
+  "alliance": "ALLEANZA",
+  "rankings": "CLASSIFICHE",
+  "noPayToWin": "NIENTE PAY-TO-WIN",
+  "flightLog": "REGISTRO DI VOLO",
+  "dockIntoTheCommand": "Aggancia alla finestra Comando",
+  "closeEsc": "Chiudi · Esc"
+}

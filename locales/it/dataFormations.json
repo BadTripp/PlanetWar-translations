@@ -1,0 +1,16 @@
+{
+  "escort.name": "Scorta",
+  "escort.desc": "I droni seguono dietro la nave.",
+  "wedge.name": "Cuneo",
+  "wedge.desc": "Una V davanti alla nave: armi più acuminate, scudi più sottili.",
+  "bulwark.name": "Baluardo",
+  "bulwark.desc": "Un muro di droni davanti: scudi più resistenti, più lenti.",
+  "diamond.name": "Diamante",
+  "diamond.desc": "Un diamante bilanciato attorno alla nave.",
+  "orbit.name": "Orbita",
+  "orbit.desc": "I droni circondano la nave, rinforzando scudi e spinta.",
+  "helix.name": "Elica",
+  "helix.desc": "Due anelli controrotanti: danni elevati, scafo più leggero.",
+  "pulse.name": "Impulso",
+  "pulse.desc": "Un anello che respira: veloce e tagliente, ma gli scudi ne risentono."
+}

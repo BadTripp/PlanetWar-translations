@@ -1,0 +1,14 @@
+{
+  "itemAlreadyEquipped": "Item already equipped.",
+  "maximumUavs": "Maximum {MAX_DRONES} UAVs.",
+  "onlyOneLauncherPer": "Only one launcher per ship.",
+  "onlyOneSlotExpander": "Only one slot expander per ship.",
+  "noFreeExtraSlot": "No free extra slot ({length}/{cap}).",
+  "noFreeShipSlot": "No free ship slot ({length}/{max}).",
+  "noFreeSlotShip": "No free slot: ship {length}/{max}, drones {length2}/{h}.",
+  "youDoNotOwn": "You do not own this ship.",
+  "configurationIsCoolingDown": "Configuration is cooling down…",
+  "configurationActive": "Configuration {h} active",
+  "noFreeDroneModule": "No free drone module slot ({length}/{h}).",
+  "equipADroneFirst": "Equip a drone first: drones provide the module slots."
+}

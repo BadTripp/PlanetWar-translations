@@ -1,0 +1,8 @@
+{
+  "rewards": "Ricompense",
+  "wave": "Ondata {wave}",
+  "aliens": "{alive, plural, one {# alieno} other {# alieni}}",
+  "pilots": "{pilots, plural, one {# pilota} other {# piloti}}",
+  "closesIn": "chiude tra {left}",
+  "isOpenPortalIn": "<b>{name} è aperto</b><span>Portale in questo settore · livello {minLevel}+</span>{rw}<span>chiude tra {left}</span>"
+}

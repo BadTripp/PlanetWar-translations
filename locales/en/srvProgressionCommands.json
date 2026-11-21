@@ -1,0 +1,9 @@
+{
+  "completeAbyssIReconnaissance": "Complete Abyss I reconnaissance first.",
+  "requiresLevel": "Requires level {level}.",
+  "maximumActiveMissions": "Maximum {MAX_ACTIVE_QUESTS} active missions.",
+  "missionAccepted": "Mission accepted: {name}",
+  "grado": "{name} rank {r}.",
+  "notEnoughCredits": "Not enough credits.",
+  "pilotSheetAzzeratoDischi": "Research reset: {back} data cores refunded."
+}

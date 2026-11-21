@@ -1,0 +1,6 @@
+{
+  "invalidRequestId": "Invalid request id.",
+  "requestExpiredTryAgain": "Request expired: try again.",
+  "persistenceUnavailableReconnectBefor": "Persistence unavailable: reconnect before probing rifts.",
+  "isOpenItsPortal": "{name} is open! Its portal is now open in your X-1 sector."
+}

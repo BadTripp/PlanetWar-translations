@@ -1,0 +1,22 @@
+{
+  "command": "COMMAND",
+  "identity": "IDENTITY",
+  "flightSystems": "FLIGHT SYSTEMS",
+  "fleet": "FLEET",
+  "supply": "SUPPLY",
+  "operations": "OPERATIONS",
+  "navigation": "NAVIGATION",
+  "squadron": "SQUADRON",
+  "comms": "COMMS",
+  "materials": "MATERIALS",
+  "research": "RESEARCH",
+  "exchange": "EXCHANGE",
+  "signal": "SIGNAL",
+  "rifts": "RIFTS",
+  "alliance": "ALLIANCE",
+  "rankings": "RANKINGS",
+  "noPayToWin": "NO PAY-TO-WIN",
+  "flightLog": "FLIGHT LOG",
+  "dockIntoTheCommand": "Dock into the Command window",
+  "closeEsc": "Close · Esc"
+}

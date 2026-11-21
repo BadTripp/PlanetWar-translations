@@ -1,0 +1,6 @@
+{
+  "partialRepairs": "Partial repairs: −{cost, number} Aether. Repair the rest in Equipment: right-click an item, or use Repair all.",
+  "repairsComplete": "Repairs complete: −{cost, number} Aether.",
+  "repairedFor": "Repaired for {cost, number} Aether.",
+  "upgradeInstalled": "Upgrade installed: −{cost, number} CR."
+}

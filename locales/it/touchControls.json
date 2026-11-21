@@ -1,0 +1,10 @@
+{
+  "shipStatus": "Stato della nave",
+  "switchWeaponConfiguration": "Cambia configurazione delle armi",
+  "cfg1": "<small>CFG</small><b>1</b>",
+  "nextTargetHoldTo": "Bersaglio successivo (tieni premuto per annullare)",
+  "collectEverythingNearby": "Raccogli tutto nelle vicinanze",
+  "attack": "Attacco",
+  "attack2": "<span class=\"tc-aimring\" aria-hidden=\"true\"></span><span class=\"tc-face\">{attack}<span class=\"tc-label\">ATTACCA</span></span>",
+  "aim": "MIRA"
+}

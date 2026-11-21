@@ -1,0 +1,8 @@
+{
+  "rewards": "Rewards",
+  "wave": "Wave {wave}",
+  "aliens": "{alive, plural, one {# alien} other {# aliens}}",
+  "pilots": "{pilots, plural, one {# pilot} other {# pilots}}",
+  "closesIn": "closes in {left}",
+  "isOpenPortalIn": "<b>{name} is open</b><span>Portal in this sector · level {minLevel}+</span>{rw}<span>closes in {left}</span>"
+}

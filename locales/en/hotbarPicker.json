@@ -1,0 +1,12 @@
+{
+  "slot": "<b>SLOT {i} · {i2}</b><span>{key}</span>",
+  "removeSlot": "Remove slot",
+  "clearSlot": "Clear slot",
+  "use": "USE",
+  "noModule": "NO MODULE",
+  "key": "Key {slot}",
+  "notOnTheHotbar": "Not on the hotbar",
+  "slot2": "{key} → slot {i}",
+  "tapToUse": "Tap to use · hold to place on a slot",
+  "clickToUse": "Click to use · drag onto a slot"
+}

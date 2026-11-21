@@ -1,0 +1,10 @@
+{
+  "youCannotTargetYourself": "You cannot target yourself.",
+  "noCombatInsideSafe": "No combat inside safe zones.",
+  "youMustBeLevel": "You must be level {PVP_MIN_LEVEL} to fight other pilots.",
+  "pilotsBelowLevelAre": "Pilots below level {PVP_MIN_LEVEL} are protected.",
+  "youCannotAttackA": "You cannot attack a squad member.",
+  "youCannotAttackA2": "You cannot attack a clan member.",
+  "alliedPilotsAreProtected": "Allied pilots are protected in this event.",
+  "alliedPilotsAreProtected2": "Allied pilots are protected in low sectors."
+}

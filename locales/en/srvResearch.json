@@ -1,0 +1,6 @@
+{
+  "maxRank": "Max rank",
+  "unlockBySpendingRanks": "Unlock by spending {TIER_UNLOCK} ranks in tier {tier}",
+  "needsDataCores": "Needs {r} data cores",
+  "requiresSkillRank": "Requires {skill} {rank}"
+}

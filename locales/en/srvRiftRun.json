@@ -1,0 +1,8 @@
+{
+  "noClearRewardYou": "No clear reward: you must clear at least {need} waves inside the rift.",
+  "collapsedNoLivesLeft": "{name} collapsed: no lives left. The rift fragments are lost.",
+  "checkpointWave": "Checkpoint · wave {wave}",
+  "wavesSurvived": "{length, plural, one {# wave} other {# waves}} survived",
+  "riftClearedCollectYour": "Rift cleared! Collect your loot, then take the exit portal when you are ready.",
+  "destroyedLivesLeft": "{name} was destroyed: {lives, plural, one {# life} other {# lives}} left."
+}

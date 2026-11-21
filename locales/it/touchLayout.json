@@ -1,0 +1,15 @@
+{
+  "attack": "Attacco",
+  "weaponConfiguration": "Configurazione delle armi",
+  "nextTarget": "Bersaglio successivo",
+  "collect": "Ritira",
+  "hotbarPage": "Pagina della barra rapida",
+  "useMenu": "Menu uso",
+  "hotbarSlot": "Slot {i} della barra rapida",
+  "customizeTouchButtons": "Personalizza i pulsanti touch",
+  "dragTheButtonsWhere": "Trascina i pulsanti dove preferisci. Con la tastiera, seleziona un pulsante e usa le frecce.",
+  "reset": "Ripristina",
+  "done": "Fatto",
+  "buttonsBackInTheir": "Pulsanti tornati alle posizioni predefinite.",
+  "across": "{hit}: {innerWidth}% in orizzontale, {innerHeight}% in verticale."
+}

@@ -1,0 +1,21 @@
+{
+  "todaySLoginBonusIs": "Il bonus di accesso di oggi è già stato riscattato.",
+  "noSkippedDaysCan": "Nessun giorno saltato può essere ripristinato.",
+  "milestonesCollected": "Traguardi ritirati",
+  "milestoneCollected": "Traguardo ritirato",
+  "rewardsClaimed": "{claimed, plural, one {# ricompensa ritirata} other {# ricompense ritirate}}",
+  "careerRewardClaimed": "Ricompensa di carriera ritirata",
+  "levelReached": "Livello {lv} raggiunto",
+  "levelsGained": "{from, plural, one {# livello guadagnato} other {# livelli guadagnati}}",
+  "newMissionsAndOperations": "Nuove missioni e operazioni sbloccate",
+  "weeklyQuestComplete": "Missione settimanale completata",
+  "lvOp": "Liv {level} · {name}",
+  "dailyChestOpened": "Forziere giornaliero aperto",
+  "dailyOperationComplete": "Operazione giornaliera completata",
+  "allOperationsDone": "Tutte le operazioni completate · serie di {streak, plural, one {# giorno} other {# giorni}}",
+  "loginPathComplete": "Percorso di accesso completato",
+  "loginBonus": "Bonus di accesso",
+  "newPathStartedDay": "Nuovo percorso iniziato · giorno 1/30",
+  "dayOf30": "Giorno {day}/30{restored, plural, =0 {} one { · # giorno saltato ripristinato} other { · # giorni saltati ripristinati}}",
+  "restoringNeedsAether": "Per il ripristino servono {cost, number} Aether."
+}

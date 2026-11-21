@@ -1,0 +1,10 @@
+{
+  "persistenceUnavailableReconnectBefor": "Persistence unavailable: reconnect before trading.",
+  "itemSold": "Item sold.",
+  "invalidPurchaseId": "Invalid purchase id.",
+  "richiestaScadutaRipetiLAcquisto": "Request expired: repeat the purchase.",
+  "acquistiDimostrativiDisabilitati": "Demo purchases are disabled.",
+  "persistenceUnavailableReconnectBefor2": "Persistence unavailable: reconnect before buying.",
+  "simulationCompleteNoReal": "Simulation complete: no real charge.",
+  "purchaseComplete": "Purchase complete."
+}

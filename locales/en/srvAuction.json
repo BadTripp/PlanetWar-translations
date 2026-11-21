@@ -1,0 +1,19 @@
+{
+  "lotNoLongerAvailable": "Lot no longer available.",
+  "invalidBid": "Invalid bid.",
+  "maximum8UavsOwned": "Maximum 8 UAVs owned. Sell a drone first.",
+  "youAlreadyOwnThe": "You already own the {name}.",
+  "noFreeHangarBuy": "No free hangar: buy a hangar in the Shop before bidding on a ship.",
+  "youAlreadyOwnThe2": "You already own the {name} skin.",
+  "buyTheShipFirst": "Buy the ship first: a skin needs its hull.",
+  "youAreAlreadyThe": "You are already the highest bidder.",
+  "notEnoughCredits": "Not enough credits.",
+  "uavAuctionRefundedMaximum": "UAV auction refunded: maximum {MAX_DRONES} owned.",
+  "auctionRefundedShipAlready": "{l} auction refunded: ship already owned or no free hangar.",
+  "auctionRefundedSkinAlready": "{l} auction refunded: skin already owned or ship missing.",
+  "auctionWonDeliveredTo": "Auction won: {l} delivered to your hangar.",
+  "skin": "{key} skin",
+  "minimumBid": "Minimum bid: {min, number} CR.",
+  "bidPlaced": "Bid placed: {amount, number} CR on {lot}.",
+  "outbid": "You were outbid at auction ({lot}): {amount, number} CR refunded."
+}

@@ -1,0 +1,7 @@
+{
+  "writeAtLeastA": "Write at least a few words.",
+  "reportsAreNotConfigured": "Reports are not configured on this server.",
+  "pleaseWaitSBefore": "Please wait {length}s before sending another report.",
+  "tooManyReportsThis": "Too many reports this hour. Thank you, try again later.",
+  "couldNotSendThe": "Could not send the report right now. Try again in a moment."
+}

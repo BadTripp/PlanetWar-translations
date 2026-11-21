@@ -1,0 +1,6 @@
+{
+  "nodeTooFarAway": "Nodo troppo lontano: avvicinati prima.",
+  "isDepletedItRefills": "{def} è esaurito: si riempie tra {now} min.",
+  "cargoHoldFullRefine": "Stiva piena: raffina o applica il tuo minerale.",
+  "depleted": "{def} esaurito."
+}

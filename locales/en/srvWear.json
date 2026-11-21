@@ -1,0 +1,5 @@
+{
+  "invalidRepairRequest": "Invalid repair request.",
+  "nothingToRepair": "Nothing to repair.",
+  "notEnoughAetherRepairs": "Not enough Aether: repairs cost {cost, number}."
+}

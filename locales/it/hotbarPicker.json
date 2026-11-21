@@ -1,0 +1,12 @@
+{
+  "slot": "<b>SLOT {i} · {i2}</b><span>{key}</span>",
+  "removeSlot": "Rimuovi slot",
+  "clearSlot": "Svuota slot",
+  "use": "USA",
+  "noModule": "NESSUN MODULO",
+  "key": "Tasto {slot}",
+  "notOnTheHotbar": "Non sulla barra rapida",
+  "slot2": "{key} → slot {i}",
+  "tapToUse": "Tocca per usare · tieni premuto per mettere su uno slot",
+  "clickToUse": "Clicca per usare · trascina su uno slot"
+}

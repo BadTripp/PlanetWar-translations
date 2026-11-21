@@ -1,0 +1,6 @@
+{
+  "maxRank": "Grado massimo",
+  "unlockBySpendingRanks": "Sblocca spendendo {TIER_UNLOCK} gradi nel livello {tier}",
+  "needsDataCores": "Servono {r} nuclei dati",
+  "requiresSkillRank": "Richiede {skill} {rank}"
+}

@@ -1,0 +1,5 @@
+{
+  "invalidRepairRequest": "Richiesta di riparazione non valida.",
+  "nothingToRepair": "Niente da riparare.",
+  "notEnoughAetherRepairs": "Aether insufficiente: le riparazioni costano {cost, number}."
+}

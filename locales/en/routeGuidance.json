@@ -1,0 +1,13 @@
+{
+  "howRoutesWork": "How routes work",
+  "navigationFollowingARoute": "<small>NAVIGATION</small><b>Following a route</b>",
+  "n1MinimapTheGate": "<i class=\"rc-step\">1</i><span><b>Minimap</b>The gate to take is the <em>gold square</em> with a pulsing ring; a dotted line joins it to your ship.</span>",
+  "n2InSpaceA": "<i class=\"rc-step\">2</i><span><b>In space</b>A <em>gold arrow</em> at the screen edge points to the gate when it is off screen; on screen the gate is marked NEXT JUMP.</span>",
+  "n3JumpClickFly": "<i class=\"rc-step\">3</i><span><b>Jump</b>Click <em>Fly to gate</em> below the minimap (or fly there yourself) and press <kbd>J</kbd>. The route updates after every jump.</span>",
+  "gotIt": "Got it",
+  "route": "ROUTE",
+  "jump": "{jumps} jump",
+  "nextGate": "Next gate",
+  "hereJ": "HERE · J",
+  "flyToGate": "Fly to gate"
+}

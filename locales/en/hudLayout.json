@@ -1,0 +1,16 @@
+{
+  "addASlotUp": "Add a slot (up to 20)",
+  "addAHexagonSlot": "Add a hexagon slot",
+  "useAnyItemEven": "Use any item, even if it is not on the hotbar · drag one onto a slot",
+  "useMenuAmmoRockets": "Use menu: ammo, rockets, CPUs and extras",
+  "resetSlotLayout": "Reset slot layout",
+  "resetHotbarLayout": "Reset hotbar layout",
+  "editSlotsDragTo": "Edit slots; drag to arrange on desktop",
+  "editHotbarSlots": "Edit hotbar slots",
+  "collapseExpand": "Collapse / expand",
+  "collapseOrExpand": "Collapse or expand",
+  "hudHiddenPress": "HUD hidden · press H to show it",
+  "dragToMove": "Drag to move",
+  "finishEditingHotbarSlots": "Finish editing hotbar slots",
+  "minimapSize": "Minimap size"
+}

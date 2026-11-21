@@ -1,0 +1,22 @@
+name: Validate translations
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: English is read-only here
+        if: github.event_name == 'pull_request'
+        run: |
+          if git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -q '^locales/en/'; then
+            echo "::error::locales/en is the source text and is synced from the game. Open an issue to suggest a wording change."; exit 1
+          fi
+      - run: node tools/check.mjs

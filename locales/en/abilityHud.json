@@ -1,0 +1,7 @@
+{
+  "slot": "Slot",
+  "shipAbility": "SHIP ABILITY · {toUpperCase} · {toUpperCase2}",
+  "cooldownS": "COOLDOWN {cooldownMs} S",
+  "activeSLeft": "Active · {running} s left",
+  "rechargingS": "Recharging · {left} s"
+}

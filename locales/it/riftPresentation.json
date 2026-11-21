@@ -1,0 +1,12 @@
+{
+  "noFragments": "nessun frammento",
+  "goToThePortals": "Vai ai portali: destra = prossima ondata · sinistra = esci",
+  "waveAliens": "<span>Ondata {wave}/{total}</span><span>{alive, plural, one {# alieno} other {# alieni}} · nessuna via di fuga</span>",
+  "waveCleared": "<span>Ondata {wave}/{total} completata</span>{choose}",
+  "nextWave": "<span>Prossima: ondata {wave}/{total}</span>{choose}",
+  "fragments": "+{n} {n, plural, one {frammento} other {frammenti}} di {name}",
+  "keysPaid": "{n, plural, one {# chiave} other {# chiavi}}",
+  "aetherPaid": "{n} AE",
+  "probeLine": "{spins}× sonda ({paid}) · {found}{loot}",
+  "riftOpen": "{names} APERTA"
+}

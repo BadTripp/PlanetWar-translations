@@ -1,0 +1,7 @@
+{
+  "source": "en",
+  "languages": {
+    "en": { "name": "English", "native": "English" },
+    "it": { "name": "Italian", "native": "Italiano" }
+  }
+}

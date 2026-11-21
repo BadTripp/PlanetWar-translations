@@ -1,0 +1,20 @@
+{
+  "confirmAction": "CONFIRM ACTION",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "closeTutorial": "Close tutorial",
+  "trainingComplete": "Training complete",
+  "trainingComplete2": "<small class=\"tw-kicker\">TRAINING COMPLETE</small>",
+  "huntTheSwarmsHold": "Hunt the swarms. Hold your sector.",
+  "enterTheGalaxy": "Enter the galaxy",
+  "researchUnlocksAtLevel": "Research unlocks at level 3. Replay the tutorial any time from Settings.",
+  "chapter": "CHAPTER {chapterNo}/{chapters} · {toUpperCase}",
+  "closeTheLesson": "Close the lesson",
+  "skipTheTutorial": "Skip the tutorial",
+  "skipStep": "Skip step",
+  "finish": "Finish",
+  "next": "Next",
+  "welcomeTo": "WELCOME TO",
+  "planetWar": "PLANET WAR",
+  "rewardsAlreadyCollectedOn": "Rewards already collected on your first run."
+}

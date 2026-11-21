@@ -1,0 +1,22 @@
+{
+  "shop": "Shop",
+  "equipment": "Equipaggiamento",
+  "missions": "Missioni",
+  "research": "Ricerca",
+  "galaxy": "Galassia",
+  "hangar": "Hangar",
+  "refinery": "Raffineria",
+  "pilot": "Pilota",
+  "open": "Apri {k}",
+  "toContinue": "Per continuare (“{title}”), clicca il pulsante evidenziato “{k}”.",
+  "openTheCommandMenu": "Apri il menu Comando",
+  "toContinue2": "Per continuare (“{title}”), apri il menu Comando: tocca il pulsante ☰.",
+  "backTo": "Torna a {hub}",
+  "thisStepIsIn": "Questo passaggio è in “{hub}”. Toccalo nell'elenco.",
+  "backToTheMenu": "Torna al menu",
+  "tapMenuToSee": "Tocca “Menu” per rivedere tutte le sezioni.",
+  "credits": "Crediti",
+  "dataCores": "Nuclei dati",
+  "skipTutorial": "Saltare il tutorial?",
+  "youCanReplayThe": "Puoi rigiocare il tutorial dalle Impostazioni."
+}

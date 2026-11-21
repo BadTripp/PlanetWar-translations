@@ -1,0 +1,6 @@
+{
+  "nodeTooFarAway": "Node too far away: fly closer first.",
+  "isDepletedItRefills": "{def} is depleted: it refills in {now} min.",
+  "cargoHoldFullRefine": "Cargo hold full: refine or apply your ore.",
+  "depleted": "{def} depleted."
+}

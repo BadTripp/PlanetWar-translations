@@ -1,0 +1,18 @@
+{
+  "combatLessonFlow": "COMBAT LESSON · FLOW STRIKE",
+  "steerWithTheJoystick": "Steer with the joystick",
+  "holdTheLeftMouse": "Hold the left mouse button to steer",
+  "aFlowAppeared": "A flow appeared",
+  "aRibbonOfLight": "A ribbon of light has formed around your target, and the alien is tethered to it. Fly into the bright ring to start it. {steer}.",
+  "followTheFlow": "Follow the flow",
+  "weaveThroughTheGlowing": "Weave through the glowing crests in order, then reach the gold star at the end. Stay on the line: if it flickers red you are drifting off, and it breaks if you stay off.",
+  "theFlowBroke": "The flow broke",
+  "noProblemKeepFiring": "No problem: keep firing at an alien and a new flow appears in a few seconds. Fly into its ring and stay on the line this time.",
+  "stunnedGetBehindIt": "Stunned! Get behind it",
+  "theAlienIsStunned": "The alien is stunned for a moment, with its back turned. Fly into the gold cone behind it: every laser shot fired from inside the cone is a CRITICAL hit.",
+  "criticalHit": "Critical hit!",
+  "thatIsTheFlow": "That is the Flow Strike: follow the flow, stun, strike from behind. The same alien cannot be stunned again for a while, and bosses only stagger: they stay put but keep attacking.",
+  "gotIt": "Got it",
+  "theStunWoreOff": "The stun wore off",
+  "nextTimeSlideInto": "Next time, slide into the gold cone behind the alien right after the stun: shots from there are critical. A new flow appears as you keep fighting."
+}

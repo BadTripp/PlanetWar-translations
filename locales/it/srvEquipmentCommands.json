@@ -1,0 +1,14 @@
+{
+  "itemAlreadyEquipped": "Oggetto già equipaggiato.",
+  "maximumUavs": "Massimo {MAX_DRONES} UAV.",
+  "onlyOneLauncherPer": "Un solo lanciatore per nave.",
+  "onlyOneSlotExpander": "Un solo espansore di slot per nave.",
+  "noFreeExtraSlot": "Nessuno slot extra libero ({length}/{cap}).",
+  "noFreeShipSlot": "Nessuno slot libero sulla nave ({length}/{max}).",
+  "noFreeSlotShip": "Nessuno slot libero: nave {length}/{max}, droni {length2}/{h}.",
+  "youDoNotOwn": "Non possiedi questa nave.",
+  "configurationIsCoolingDown": "La configurazione è in ricarica…",
+  "configurationActive": "Configurazione {h} attiva",
+  "noFreeDroneModule": "Nessuno slot libero per moduli dei droni ({length}/{h}).",
+  "equipADroneFirst": "Equipaggia prima un drone: i droni forniscono gli slot per i moduli."
+}

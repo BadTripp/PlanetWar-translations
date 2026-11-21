@@ -1,0 +1,23 @@
+{
+  "signInWithAn": "Accedi con un account per usare gli inviti.",
+  "chooseACompanyFirst": "Scegli prima una compagnia.",
+  "referralsAreUnavailableRight": "Gli inviti non sono disponibili al momento. Riprova tra poco.",
+  "thatIsNotA": "Questo non è un codice di invito valido.",
+  "youAlreadyEnteredA": "Hai già inserito un codice di invito.",
+  "referralCodesCanOnly": "I codici di invito si possono inserire solo all'inizio del gioco.",
+  "noPilotHasThat": "Nessun pilota ha quel codice di invito.",
+  "youCannotUseYour": "Non puoi usare il tuo codice.",
+  "thatPilotWasInvited": "Quel pilota è stato invitato da te.",
+  "thatPilotHasNo": "Quel pilota non ha più inviti.",
+  "thisCodeCannotBe": "Questo codice non può essere usato dalla tua connessione. Gli inviti sono per nuovi giocatori su una rete diversa.",
+  "welcomePackInvited": "Pacchetto di benvenuto · invitato da {name} · {text}",
+  "welcomePack": "Pacchetto di benvenuto",
+  "invitedBy": "Invitato da {name}",
+  "referralRewards": "Ricompense di invito · {text}",
+  "rank": "Grado: {title}",
+  "referralReward": "Ricompensa di invito",
+  "rewardsClaimed": "{n, plural, one {# ricompensa ritirata} other {# ricompense ritirate}}",
+  "recruitMilestoneReached": "Traguardo di reclutamento raggiunto",
+  "recruitsOnYourOwn": "Le reclute sulla tua stessa connessione non fruttano nulla.",
+  "noReferralRewardsTo": "Ancora nessuna ricompensa di invito da riscattare."
+}

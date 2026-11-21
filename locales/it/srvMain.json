@@ -1,0 +1,7 @@
+{
+  "noEscapeDuringA": "Nessuna via di fuga durante un'ondata.",
+  "thisEventIsClosed": "Questo evento è chiuso.",
+  "thisRiftIsNot": "Questa faglia non è aperta.",
+  "theClanRiftIs": "La faglia del clan è piena ({CLAN_RIFT_MAX_PILOTS} piloti).",
+  "youNeedLevelTo": "Ti serve il livello {minLevel} per entrare in {name}."
+}

@@ -1,0 +1,4 @@
+{
+  "beaconReached": "Faro {progress}/{count} raggiunto · {name}",
+  "missionComplete": "Missione completata"
+}

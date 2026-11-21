@@ -1,0 +1,14 @@
+{
+  "leaveClan": "Lascia il clan",
+  "leaveYourClanWhat": "Lasciare il clan? Quanto hai versato in banca resta lì.",
+  "disbandClan": "Sciogli il clan",
+  "disbandTheClanFor": "Sciogliere il clan per tutti i membri? La banca andrà persa. L'azione non si può annullare.",
+  "removeMember": "Rimuovi membro",
+  "removeFromTheClan": "Rimuovere {name} dal clan?",
+  "changeClanTax": "Cambia la tassa del clan",
+  "setTheTaxTo": "Impostare la tassa al {value}%? Non si potrà cambiare per 24 ore e ogni membro verrà avvisato.",
+  "donateToTheBank": "Dona alla banca",
+  "donateCrToThe": "Donare {amount} CR alla banca del clan? Le donazioni non si possono ritirare.",
+  "openClanRift": "Apri faglia del clan",
+  "openWithCrFrom": "Aprire {name} con {rift} CR dalla banca del clan?"
+}

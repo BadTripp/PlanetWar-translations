@@ -1,0 +1,19 @@
+{
+  "lotNoLongerAvailable": "Lotto non più disponibile.",
+  "invalidBid": "Offerta non valida.",
+  "maximum8UavsOwned": "Massimo 8 UAV posseduti. Vendi prima un drone.",
+  "youAlreadyOwnThe": "Possiedi già {name}.",
+  "noFreeHangarBuy": "Nessun hangar libero: acquista un hangar nello Shop prima di fare offerte su una nave.",
+  "youAlreadyOwnThe2": "Possiedi già la skin {name}.",
+  "buyTheShipFirst": "Acquista prima la nave: una skin ha bisogno del suo scafo.",
+  "youAreAlreadyThe": "Sei già il miglior offerente.",
+  "notEnoughCredits": "Crediti insufficienti.",
+  "uavAuctionRefundedMaximum": "Asta UAV rimborsata: massimo {MAX_DRONES} posseduti.",
+  "auctionRefundedShipAlready": "Asta di {l} rimborsata: nave già posseduta o nessun hangar libero.",
+  "auctionRefundedSkinAlready": "Asta di {l} rimborsata: skin già posseduta o nave mancante.",
+  "auctionWonDeliveredTo": "Asta vinta: {l} consegnato nel tuo hangar.",
+  "skin": "Skin {key}",
+  "minimumBid": "Offerta minima: {min, number} CR.",
+  "bidPlaced": "Offerta fatta: {amount, number} CR su {lot}.",
+  "outbid": "Sei stato superato all'asta ({lot}): {amount, number} CR rimborsati."
+}

@@ -1,0 +1,7 @@
+{
+  "levelUp": "<small class=\"promo-kicker\">LEVEL UP</small>",
+  "newMissionsAndGear": "New missions and gear unlocked",
+  "promotion": "<small class=\"promo-kicker\">PROMOTION</small>",
+  "rankAchieved": "Rank {id} achieved",
+  "newSection": "NEW SECTION"
+}

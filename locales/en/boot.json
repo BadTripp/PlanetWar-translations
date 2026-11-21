@@ -1,0 +1,11 @@
+{
+  "connecting": "Connecting to server…",
+  "reload": "Reload",
+  "failed": "Connection failed.",
+  "lost": "Connection lost.",
+  "otherWindow": "Signed in from another window.",
+  "error": "Error: {message}",
+  "updating": "Server update in progress — reconnecting…",
+  "reconnecting": "Connection lost — reconnecting…",
+  "online": "● {online} online"
+}

@@ -1,0 +1,18 @@
+{
+  "riftCleared": "Faglia completata: {title}",
+  "riftCleared2": "✦ FAGLIA COMPLETATA ✦",
+  "clickToContinue": "Clicca per continuare",
+  "credits": "Crediti",
+  "experience": "Esperienza",
+  "aether": "Aether",
+  "dataCores": "Nuclei dati",
+  "riftKeys": "Chiavi di faglia",
+  "honor": "Onore",
+  "riftKey": "Chiave di faglia",
+  "dailyChest": "✦ FORZIERE GIORNALIERO",
+  "opening": "Apertura…",
+  "unlocked": "Sbloccato!",
+  "rewards": "✦ {count, plural, one {# RICOMPENSA} other {# RICOMPENSE}}",
+  "reward": "✦ RICOMPENSA",
+  "chest": "<i class=\"cr-chest-ic\">▣</i><span>Forziere</span>"
+}

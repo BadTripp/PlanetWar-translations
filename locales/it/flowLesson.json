@@ -1,0 +1,18 @@
+{
+  "combatLessonFlow": "LEZIONE DI COMBATTIMENTO · COLPO DEL FLUSSO",
+  "steerWithTheJoystick": "Manovra con il joystick",
+  "holdTheLeftMouse": "Tieni premuto il tasto sinistro del mouse per manovrare",
+  "aFlowAppeared": "È comparso un flusso",
+  "aRibbonOfLight": "Un nastro di luce si è formato attorno al bersaglio e l'alieno vi è legato. Vola nell'anello luminoso per avviarlo. {steer}.",
+  "followTheFlow": "Segui il flusso",
+  "weaveThroughTheGlowing": "Passa tra le creste luminose in ordine, poi raggiungi la stella dorata alla fine. Resta sulla linea: se lampeggia di rosso stai deviando, e si spezza se resti fuori.",
+  "theFlowBroke": "Il flusso si è spezzato",
+  "noProblemKeepFiring": "Nessun problema: continua a sparare a un alieno e tra pochi secondi comparirà un nuovo flusso. Vola nel suo anello e stavolta resta sulla linea.",
+  "stunnedGetBehindIt": "Stordito! Mettiti dietro",
+  "theAlienIsStunned": "L'alieno è stordito per un attimo, di spalle. Vola nel cono dorato dietro di lui: ogni colpo laser sparato dall'interno del cono è un colpo CRITICO.",
+  "criticalHit": "Colpo critico!",
+  "thatIsTheFlow": "Questo è il Colpo del flusso: segui il flusso, stordisci, colpisci da dietro. Lo stesso alieno non può essere stordito di nuovo per un po', e i boss vacillano soltanto: restano fermi ma continuano ad attaccare.",
+  "gotIt": "Capito",
+  "theStunWoreOff": "Lo stordimento è finito",
+  "nextTimeSlideInto": "La prossima volta, scivola nel cono dorato dietro l'alieno subito dopo lo stordimento: i colpi da lì sono critici. Un nuovo flusso compare mentre continui a combattere."
+}

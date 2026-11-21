@@ -1,0 +1,6 @@
+{
+  "invalidRequestId": "ID richiesta non valido.",
+  "requestExpiredTryAgain": "Richiesta scaduta: riprova.",
+  "persistenceUnavailableReconnectBefor": "Salvataggio non disponibile: riconnettiti prima di sondare le faglie.",
+  "isOpenItsPortal": "{name} è aperta! Il suo portale è ora aperto nel tuo settore X-1."
+}

@@ -1,0 +1,16 @@
+{
+  "x1.name": "Pulse Cell",
+  "x2.name": "Arc Cell",
+  "x3.name": "Plasma Cell",
+  "x4.name": "Burst Cell",
+  "x6.name": "Barrage Cell",
+  "sab.name": "Siphon Cell",
+  "r1.name": "Dart Rocket",
+  "r2.name": "Lance Rocket",
+  "r3.name": "Torpedo",
+  "eco.name": "Salvo Rocket I",
+  "hst.name": "Salvo Rocket II",
+  "ubr.name": "Salvo Rocket III",
+  "mine.name": "Proximity Mine",
+  "cloak.name": "Cloak Charge"
+}

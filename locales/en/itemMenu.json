@@ -1,0 +1,14 @@
+{
+  "cr": "CR",
+  "cr2": " + {upgrades} CR",
+  "click": "Click",
+  "needMore": "Need {aether} more {CURRENCY_TAG}",
+  "wearLowersTheSale": "Wear lowers the sale price by up to 50%.",
+  "sellingRemovesItFrom": "Selling removes it from your loadout.",
+  "actions": "{name} actions",
+  "fitted": "Fitted",
+  "inInventory": "In inventory",
+  "condition": "{cond}% condition",
+  "pristine": " · Pristine",
+  "confirmSale": "<span>Confirm sale</span><em>{saleText}</em>"
+}

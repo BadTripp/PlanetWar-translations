@@ -1,0 +1,9 @@
+{
+  "completeAbyssIReconnaissance": "Completa prima la ricognizione di Abyss I.",
+  "requiresLevel": "Richiede il livello {level}.",
+  "maximumActiveMissions": "Massimo {MAX_ACTIVE_QUESTS} missioni attive.",
+  "missionAccepted": "Missione accettata: {name}",
+  "grado": "{name} grado {r}.",
+  "notEnoughCredits": "Crediti insufficienti.",
+  "pilotSheetAzzeratoDischi": "Ricerca azzerata: {back} nuclei dati restituiti."
+}

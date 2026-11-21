@@ -1,0 +1,5 @@
+{
+  "hasEnded": "{name} has ended.",
+  "eventOpenUntil": "{name} is open until {closes} (Rome). Find the portal on your company's X-1 · level {level}+.",
+  "eventOpenUntilBonus": "{name} is open until {closes} (Rome). Find the portal on your company's X-1 · level {level}+. Alien rewards {bonus}%."
+}

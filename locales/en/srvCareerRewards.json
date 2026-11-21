@@ -1,0 +1,21 @@
+{
+  "todaySLoginBonusIs": "Today's login bonus is already claimed.",
+  "noSkippedDaysCan": "No skipped days can be restored.",
+  "milestonesCollected": "Milestones collected",
+  "milestoneCollected": "Milestone collected",
+  "rewardsClaimed": "{claimed, plural, one {# reward} other {# rewards}} claimed",
+  "careerRewardClaimed": "Career reward claimed",
+  "levelReached": "Level {lv} reached",
+  "levelsGained": "{from, plural, one {# level} other {# levels}} gained",
+  "newMissionsAndOperations": "New missions and operations unlocked",
+  "weeklyQuestComplete": "Weekly quest complete",
+  "lvOp": "Lv {level} · {name}",
+  "dailyChestOpened": "Daily chest opened",
+  "dailyOperationComplete": "Daily operation complete",
+  "allOperationsDone": "All operations done · streak {streak, plural, one {# day} other {# days}}",
+  "loginPathComplete": "Login path complete",
+  "loginBonus": "Login bonus",
+  "newPathStartedDay": "New path started · day 1/30",
+  "dayOf30": "Day {day}/30{restored, plural, =0 {} one { · # skipped day restored} other { · # skipped days restored}}",
+  "restoringNeedsAether": "Restoring needs {cost, number} Aether."
+}

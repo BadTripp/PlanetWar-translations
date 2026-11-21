@@ -1,0 +1,10 @@
+{
+  "youCannotTargetYourself": "Non puoi mirare a te stesso.",
+  "noCombatInsideSafe": "Nessun combattimento nelle zone sicure.",
+  "youMustBeLevel": "Devi essere al livello {PVP_MIN_LEVEL} per combattere altri piloti.",
+  "pilotsBelowLevelAre": "I piloti sotto il livello {PVP_MIN_LEVEL} sono protetti.",
+  "youCannotAttackA": "Non puoi attaccare un membro della squadra.",
+  "youCannotAttackA2": "Non puoi attaccare un membro del clan.",
+  "alliedPilotsAreProtected": "I piloti alleati sono protetti in questo evento.",
+  "alliedPilotsAreProtected2": "I piloti alleati sono protetti nei settori bassi."
+}

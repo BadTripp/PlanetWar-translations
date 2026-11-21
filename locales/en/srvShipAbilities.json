@@ -1,0 +1,9 @@
+{
+  "empYourTargetingIs": "EMP: your targeting is jammed for {pilotMs} s.",
+  "empShockwaveNoHostile": "EMP Shockwave: no hostile targets within range.",
+  "thatTargetCannotBe": "That target cannot be hooked again yet.",
+  "thatTargetIsAlready": "That target is already marked.",
+  "targetingJammedWaitFor": "Targeting jammed: wait for the EMP to clear.",
+  "selectAnEnemyTarget": "Select an enemy target first.",
+  "targetOutOfRange": "Target out of range ({range})."
+}

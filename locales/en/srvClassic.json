@@ -1,0 +1,18 @@
+{
+  "invalidRefiningQuantity": "Invalid refining quantity.",
+  "notEnoughOre": "Not enough ore.",
+  "invalidOreOrQuantity": "Invalid ore or quantity.",
+  "confirmTheOreReplacement": "Confirm the ore replacement.",
+  "oneHangarPerPurchase": "One hangar per purchase.",
+  "youAlreadyOwnEvery": "You already own every hangar.",
+  "notEnoughAether": "Not enough Aether.",
+  "invalidQuantity": "Invalid quantity.",
+  "purchaseUnavailable": "Purchase unavailable.",
+  "maximum8UavsOwned": "Maximum 8 UAVs owned. Sell a drone first.",
+  "oneShipPerPurchase": "One ship per purchase.",
+  "alreadyOwned": "Already owned.",
+  "formationsUnlockAtLevel": "Formations unlock at level {FORMATION_UNLOCK_LEVEL}.",
+  "buyTheShipFirst": "Buy the ship first.",
+  "notEnoughCredits": "Not enough credits.",
+  "noFreeHangarReplace": "No free hangar: replace your current ship or buy a hangar in the Shop."
+}

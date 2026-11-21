@@ -1,0 +1,22 @@
+{
+  "1.name": "Recruit",
+  "2.name": "Cadet",
+  "3.name": "Pilot",
+  "4.name": "Senior Pilot",
+  "5.name": "Corporal",
+  "6.name": "Senior Corporal",
+  "7.name": "Sergeant",
+  "8.name": "Master Sergeant",
+  "9.name": "Warrant Officer",
+  "10.name": "Second Lieutenant",
+  "11.name": "Lieutenant",
+  "12.name": "Captain",
+  "13.name": "Major",
+  "14.name": "Lieutenant Colonel",
+  "15.name": "Colonel",
+  "16.name": "Brigadier",
+  "17.name": "Major General",
+  "18.name": "Lieutenant General",
+  "19.name": "General",
+  "20.name": "Supreme Commander"
+}

@@ -1,0 +1,4 @@
+{
+  "beaconReached": "Beacon {progress}/{count} reached · {name}",
+  "missionComplete": "Mission complete"
+}

@@ -1,0 +1,9 @@
+{
+  "empYourTargetingIs": "EMP: la tua mira è disturbata per {pilotMs} s.",
+  "empShockwaveNoHostile": "Onda d'urto EMP: nessun bersaglio ostile a portata.",
+  "thatTargetCannotBe": "Quel bersaglio non può ancora essere agganciato di nuovo.",
+  "thatTargetIsAlready": "Quel bersaglio è già marchiato.",
+  "targetingJammedWaitFor": "Mira disturbata: attendi che l'EMP si dissolva.",
+  "selectAnEnemyTarget": "Seleziona prima un bersaglio nemico.",
+  "targetOutOfRange": "Bersaglio fuori portata ({range})."
+}

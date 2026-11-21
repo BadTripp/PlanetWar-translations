@@ -1,0 +1,23 @@
+{
+  "signInWithAn": "Sign in with an account to use referrals.",
+  "chooseACompanyFirst": "Choose a company first.",
+  "referralsAreUnavailableRight": "Referrals are unavailable right now. Try again in a moment.",
+  "thatIsNotA": "That is not a valid referral code.",
+  "youAlreadyEnteredA": "You already entered a referral code.",
+  "referralCodesCanOnly": "Referral codes can only be entered at the start of the game.",
+  "noPilotHasThat": "No pilot has that referral code.",
+  "youCannotUseYour": "You cannot use your own code.",
+  "thatPilotWasInvited": "That pilot was invited by you.",
+  "thatPilotHasNo": "That pilot has no invitations left.",
+  "thisCodeCannotBe": "This code cannot be used from your connection. Referrals are for new players on a different network.",
+  "welcomePackInvited": "Welcome pack · invited by {name} · {text}",
+  "welcomePack": "Welcome pack",
+  "invitedBy": "Invited by {name}",
+  "referralRewards": "Referral rewards · {text}",
+  "rank": "Rank: {title}",
+  "referralReward": "Referral reward",
+  "rewardsClaimed": "{n, plural, one {# reward} other {# rewards}} claimed",
+  "recruitMilestoneReached": "Recruit milestone reached",
+  "recruitsOnYourOwn": "Recruits on your own connection earn nothing.",
+  "noReferralRewardsTo": "No referral rewards to claim yet."
+}

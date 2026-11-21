@@ -1,0 +1,13 @@
+{
+  "howRoutesWork": "Come funzionano le rotte",
+  "navigationFollowingARoute": "<small>NAVIGAZIONE</small><b>Seguire una rotta</b>",
+  "n1MinimapTheGate": "<i class=\"rc-step\">1</i><span><b>Minimappa</b>Il varco da prendere è il <em>quadrato dorato</em> con un anello pulsante; una linea tratteggiata lo collega alla tua nave.</span>",
+  "n2InSpaceA": "<i class=\"rc-step\">2</i><span><b>Nello spazio</b>Una <em>freccia dorata</em> sul bordo dello schermo indica il varco quando è fuori schermo; sullo schermo il varco è segnato PROSSIMO SALTO.</span>",
+  "n3JumpClickFly": "<i class=\"rc-step\">3</i><span><b>Salto</b>Clicca <em>Vola al varco</em> sotto la minimappa (o vola tu stesso) e premi <kbd>J</kbd>. La rotta si aggiorna a ogni salto.</span>",
+  "gotIt": "Capito",
+  "route": "ROTTA",
+  "jump": "{jumps} salto",
+  "nextGate": "Prossimo varco",
+  "hereJ": "QUI · J",
+  "flyToGate": "Vola al varco"
+}

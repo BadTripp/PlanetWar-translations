@@ -1,0 +1,9 @@
+{
+  "speed": "+{value} velocità",
+  "laser": "LASER",
+  "shieldGenerator": "GENERATORE DI SCUDO",
+  "engine": "MOTORE",
+  "drone": "DRONE",
+  "salvoRack": "RACK A SALVE",
+  "extraModule": "MODULO EXTRA"
+}

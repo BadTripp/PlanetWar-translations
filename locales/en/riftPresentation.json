@@ -1,0 +1,12 @@
+{
+  "noFragments": "no fragments",
+  "goToThePortals": "Go to the portals: right = next wave · left = leave",
+  "waveAliens": "<span>Wave {wave}/{total}</span><span>{alive, plural, one {# alien} other {# aliens}} · no escape</span>",
+  "waveCleared": "<span>Wave {wave}/{total} cleared</span>{choose}",
+  "nextWave": "<span>Next: wave {wave}/{total}</span>{choose}",
+  "fragments": "+{n} {name} {n, plural, one {fragment} other {fragments}}",
+  "keysPaid": "{n, plural, one {# key} other {# keys}}",
+  "aetherPaid": "{n} AE",
+  "probeLine": "{spins}× probe ({paid}) · {found}{loot}",
+  "riftOpen": "{names} OPEN"
+}

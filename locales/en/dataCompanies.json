@@ -1,0 +1,20 @@
+{
+  "1.name": "Helix Forge",
+  "1.title": "Helix Forge Works",
+  "1.focus": "Heavy industry",
+  "1.motto": "Burn it down. Build it back.",
+  "1.desc": "Furnace stations and armored fleets. Helix never retreats: it sends a bigger ship.",
+  "1.story": "Helix Forge turns wrecks into warships. Its foundries in the Ember fields never go dark, fed by ore torn out of alien hives. Rivals call it reckless. Helix calls it a deadline.",
+  "2.name": "Terra Vanguard",
+  "2.title": "Terra Vanguard Group",
+  "2.focus": "Exploration & fleet defense",
+  "2.motto": "Hold the line.",
+  "2.desc": "First through every new gate, last to leave. Patrol fleets that guard what they find.",
+  "2.story": "Terra Vanguard has lost more stations to the swarms than any rival, and rebuilt every one. Its patrols hold the Azure gates and ambush anyone who crosses without a flag.",
+  "3.name": "Solis Union",
+  "3.title": "Solis Resource Union",
+  "3.focus": "Resources & research",
+  "3.motto": "Take what the swarm leaves.",
+  "3.desc": "Patient hunters. They study the swarms, then outrefine everyone.",
+  "3.story": "Solis Union studies the aliens before it shoots them. Its labs in the Verdant sector know what each swarm drops and where. Nobody refines more ore, and nobody likes being ambushed by them."
+}

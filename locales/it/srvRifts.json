@@ -1,0 +1,7 @@
+{
+  "unknownRift": "Faglia sconosciuta.",
+  "invalidProbeCount": "Numero di sonde non valido.",
+  "isAlreadyOpenEnter": "{name} è già aperta: entra dal tuo settore X-1.",
+  "noRiftKeysAnd": "Nessuna chiave di faglia e Aether insufficiente: una sonda costa {RIFT_PROBE_COST}.",
+  "noRiftKeysLeft": "Chiavi di faglia esaurite: attiva l'Aether per continuare a sondare."
+}

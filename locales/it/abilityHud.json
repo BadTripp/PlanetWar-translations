@@ -1,0 +1,7 @@
+{
+  "slot": "Slot",
+  "shipAbility": "ABILITÀ DELLA NAVE · {toUpperCase} · {toUpperCase2}",
+  "cooldownS": "RICARICA {cooldownMs} S",
+  "activeSLeft": "Attiva · {running} s rimasti",
+  "rechargingS": "In ricarica · {left} s"
+}

@@ -1,0 +1,6 @@
+{
+  "moduleUpgradesAreNo": "I potenziamenti dei moduli non sono più disponibili.",
+  "onlyLasersAndShield": "Si possono potenziare solo laser e generatori di scudo.",
+  "alreadyAtTheMaximum": "Già al livello massimo di potenziamento.",
+  "notEnoughCreditsTheUpgrade": "Crediti insufficienti: il potenziamento costa {cost, number}."
+}

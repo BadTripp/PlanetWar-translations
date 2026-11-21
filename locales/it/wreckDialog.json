@@ -1,0 +1,15 @@
+{
+  "destroyed": "DISTRUTTA",
+  "hullIntegrity0": "INTEGRITÀ DELLO SCAFO 0%",
+  "shipDestroyed": "Nave distrutta",
+  "repairAllGear": "RIPARA TUTTO L'EQUIPAGGIAMENTO",
+  "yourAether": "<span>IL TUO AETHER</span><b>{aether} {CURRENCY_TAG}</b>",
+  "yourModulesCameThrough": "I tuoi moduli sono sopravvissuti intatti.",
+  "noDamageToYour": "Nessun danno al tuo equipaggiamento.",
+  "repairMostWorn": "Ripara il più usurato e rinasci",
+  "repairRespawn": "Ripara e rinasci",
+  "respawnWithoutRepairing": "Rinasci senza riparare",
+  "respawn": "Rinasci",
+  "respawning": "RINASCITA…",
+  "autoRespawnWithoutRepairsIn": "RINASCITA AUTOMATICA SENZA RIPARAZIONI TRA {left}s"
+}
