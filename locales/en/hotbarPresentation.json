@@ -16,7 +16,7 @@
   "salvoAutopilotOnOff": "Salvo autopilot on/off",
   "naniteSwarmOnOff": "Nanite swarm on/off",
   "slot": "SLOT {hk}",
-  "clickRightClickOrPress": "Click, right-click or press ⌃ to pick an ammo, rocket or action for this slot. You can also drag slots to swap them. Add more slots with + while editing the hotbar.",
+  "clickRightClickOrPress": "Click, right-click or press ⌃ to pick an ammo, rocket or action for this slot. You can also drag slots to swap them. While editing the hotbar, add slots with + or remove any slot from its menu.",
   "stock": "STOCK {cnt}",
   "laserAmmo": "LASER AMMO",
   "drainsTheTargetSShield": "Drains the target's shield, never its hull, and adds every point drained to your own shield. Does nothing once the target's shield is empty. Consumed on every shot.",
