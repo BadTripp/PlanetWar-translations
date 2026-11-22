@@ -1,0 +1,13 @@
+{
+  "saved": "Supporter style saved.",
+  "notSupporter": "Link your Patreon account in Shop > Supporter to unlock this.",
+  "badAvatar": "That image address was not accepted. Use a direct https link to a PNG, JPG, WebP (or GIF at level 2).",
+  "removedByModerator": "A moderator removed your motto or picture. It cannot be set again.",
+  "nothingToFlag": "This profile has nothing to report.",
+  "flagUnavailable": "Reporting is not available right now.",
+  "flagWait": "Please wait a moment before reporting again.",
+  "flagTooMany": "Too many reports this hour.",
+  "flagSent": "Thank you. The team will review this profile.",
+  "grantedByStaff": "The team gave you supporter status for {days, plural, one {# day} other {# days}}.",
+  "grantRemoved": "Your granted supporter status has ended."
+}

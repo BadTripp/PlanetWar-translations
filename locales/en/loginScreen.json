@@ -20,11 +20,9 @@
   "alienSpecies": "<b>{length}</b>alien species",
   "theThreeCompanies": "The three companies",
   "skipIntro": "Skip intro",
-  "emailOrPasswordIs": "Email or password is incorrect.",
-  "anAccountWithThis": "An account with this email already exists. Try signing in.",
-  "tooManyAttemptsWait": "Too many attempts. Wait a moment and try again.",
   "signInFailedTryAgain": "Sign-in failed. Try again.",
-  "supabaseStillRequiresEmail": "Supabase still requires email confirmation. Turn off \"Confirm email\" (Authentication → Providers → Email) for the test phase.",
   "joinThePlanetWar": "Join the Planet War Discord (opens in a new tab)",
-  "discord": "Discord"
+  "discord": "Discord",
+  "steamCancelled": "Steam sign-in was cancelled.",
+  "steamFailed": "Steam sign-in did not work. Try again."
 }

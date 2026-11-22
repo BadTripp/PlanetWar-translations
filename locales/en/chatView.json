@@ -33,5 +33,19 @@
   "noOnlinePilotMatches": "No online pilot matches that name.",
   "sector": "{company} · sector {mapId}",
   "whisper3": "WHISPER",
-  "chooseAnotherPilot": "Choose another pilot"
+  "chooseAnotherPilot": "Choose another pilot",
+  "staff": "Staff",
+  "viewProfile": "View profile",
+  "profile": "Pilot profile",
+  "profileLoading": "Loading profile...",
+  "rank": "Rank",
+  "level": "Level",
+  "companyLabel": "Company",
+  "aliens": "Aliens destroyed",
+  "status": "Status",
+  "online": "Online",
+  "offline": "Offline",
+  "independent": "Independent",
+  "closeProfile": "Close",
+  "profileUnavailable": "The profile is not available right now."
 }

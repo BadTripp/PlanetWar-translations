@@ -4,5 +4,7 @@
   "writeAMessageFirst": "Write a message first.",
   "chooseACompanyBefore": "Choose a company before using Company chat.",
   "joinASquadBefore": "Join a squad before using Squad chat.",
-  "thatPilotIsNo": "That pilot is no longer online."
+  "thatPilotIsNo": "That pilot is no longer online.",
+  "mutedFor": "You are muted in chat for another {minutes, plural, one {# minute} other {# minutes}}. Squad chat still works.",
+  "staffMessage": "Staff message: {text}"
 }
