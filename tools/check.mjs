@@ -1,15 +1,18 @@
 #!/usr/bin/env node
 // Validates locales/<lang>/<namespace>.json against the source language (en).
 // Standalone (no dependencies) so the same file runs in this repo and in the community translations repo.
-//   node tools/i18n/check.mjs [--dir locales] [--strict]
+//   node tools/i18n/check.mjs [--dir locales] [--strict] [--prune]
+// --prune first deletes keys that no longer exist in en from the translated files (used when importing community
+// translations that lag behind a rename/removal in the source), so only real problems remain as errors.
 // Errors (exit 1): invalid JSON, non-string values, placeholder mismatch, keys that do not exist in en, unknown language.
 // Warnings: untranslated keys. With --strict missing keys are errors too (used for languages marked "complete").
-import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, existsSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 const args = process.argv.slice(2);
 const dir = args.includes('--dir') ? args[args.indexOf('--dir') + 1] : 'locales';
 const strict = args.includes('--strict');
+const prune = args.includes('--prune');
 
 export function placeholders(msg) {
   const names = new Set();
@@ -45,6 +48,22 @@ function loadLang(lang) {
   return { msgs: out, errors };
 }
 
+export function pruneObsolete() {
+  const manifest = JSON.parse(readFileSync(join(dir, 'manifest.json'), 'utf8'));
+  const src = manifest.source, source = loadLang(src).msgs, removed = [];
+  for (const lang of readdirSync(dir).filter(d => d !== src && statSync(join(dir, d)).isDirectory())) {
+    for (const f of readdirSync(join(dir, lang)).filter(f => f.endsWith('.json'))) {
+      const path = join(dir, lang, f), ns = f.slice(0, -5);
+      let data; try { data = JSON.parse(readFileSync(path, 'utf8')); } catch { continue; }
+      const stale = Object.keys(data).filter(k => !(`${ns}.${k}` in source));
+      if (!stale.length) continue;
+      for (const k of stale) { delete data[k]; removed.push(`${lang}: ${ns}.${k}`); }
+      writeFileSync(path, JSON.stringify(data, null, 2) + '\n');
+    }
+  }
+  return removed;
+}
+
 export function check() {
   const manifest = JSON.parse(readFileSync(join(dir, 'manifest.json'), 'utf8'));
   const src = manifest.source, errors = [], warnings = [], stats = [];
@@ -70,6 +89,7 @@ export function check() {
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
+  if (prune) { const r = pruneObsolete(); if (r.length) console.warn(`pruned ${r.length} obsolete key(s) not in the source language`); }
   const { errors, warnings, stats } = check();
   for (const w of warnings) console.warn(`warn  ${w}`);
   for (const e of errors) console.error(`error ${e}`);
