@@ -34,8 +34,10 @@
   "careerRankings": "CAREER RANKINGS",
   "hallOfFame": "Hall of <em>Fame</em>",
   "loadingRanking": "Loading ranking…",
+  "searchPilot": "Search pilot…",
+  "searchClan": "Search clan…",
+  "noMatches": "No match on this board.",
   "vacant": "Vacant",
-  "yourPositionOf": "<small>YOUR POSITION</small><b class=\"hof-yrank\">#{rank}</b><span>{mine}<em> of {total}</em></span><b class=\"hof-val\">{value} <i>{unit}</i></b>",
   "yourPosition": "YOUR POSITION",
   "notRankedYet": "Not ranked yet ·",
   "rankedTopShown": "{total} ranked · top {length} shown",
@@ -73,5 +75,13 @@
   "perkRiftsTitle": "Clan rifts",
   "perkRifts": "Spend the bank on rifts built for a full squad.",
   "perkTagTitle": "Your tag",
-  "perkTag": "Worn next to your name. Only pilots of your company can join."
+  "perkTag": "Worn next to your name. Only pilots of your company can join.",
+  "pilots": "Pilots",
+  "clans": "Clans",
+  "scopeAll": "Everyone",
+  "scopeCompany": "My company",
+  "scopeClan": "My clan",
+  "youLead": "You lead this board",
+  "toPass": "{gap} {unit} to pass #{rank}",
+  "ofTotal": "of {total}"
 }

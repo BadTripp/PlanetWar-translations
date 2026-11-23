@@ -4,6 +4,7 @@
   "failed": "Connection failed.",
   "lost": "Connection lost.",
   "otherWindow": "Signed in from another window.",
+  "banned": "This account is suspended until {date}.",
   "error": "Error: {message}",
   "updating": "Server update in progress — reconnecting…",
   "reconnecting": "Connection lost — reconnecting…",
