@@ -12,7 +12,7 @@
   "accessMethod": "Access method",
   "callsign": "Callsign",
   "guestsAreNotSaved": "Guests are not saved: progress ends with this session.",
-  "openPlaytestProgressLasts": "<b>Open playtest</b> Progress lasts for this session.",
+  "openPlaytestProgressLasts": "<b>Open alpha</b> Progress lasts for this session.",
   "yourCallsign": "Your callsign",
   "signInToPlay": "Sign in to play",
   "useAnAccountYou": "Use an account you already have. We never see your password.",

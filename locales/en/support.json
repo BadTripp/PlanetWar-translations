@@ -27,7 +27,6 @@
   "col.gif": "Animated GIF profile pictures",
   "col.live": "Live farm statistics, per hour",
   "col.hud": "Pick the colour of the HUD",
-  "col.laser": "Reshape each laser (the beam colour stays the game's)",
   "link": "Link Patreon",
   "linkHint": "Become a patron on Patreon, then link your account here. Your level is read from your pledge and updates by itself.",
   "linkFailed": "Could not start the Patreon link. Sign in with an account (not a guest) and try again.",
@@ -130,5 +129,5 @@
   "how3t": "Link",
   "upKicker": "NEXT RANK",
   "upTitle": "Become a Colonel",
-  "upText": "Colour and animate your name, add a motto and GIF picture, see live farm stats, tint the HUD and reshape your lasers."
+  "upText": "Colour and animate your name, add a motto and GIF picture, see live farm stats and tint the HUD."
 }
