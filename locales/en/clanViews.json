@@ -19,8 +19,8 @@
   "removeFromTheClan": "Remove from the clan",
   "lv": "LV {level}",
   "roles": "Roles:",
-  "taxOnEarnedCredits": "TAX ON EARNED CREDITS",
-  "withheldFromAlienBounties": "Withheld from alien bounties and mission pay. The game limits it to {CLAN_TAX_MIN}-{CLAN_TAX_MAX}%; it can change once every 24 hours and every member is told.",
+  "taxOnEarnedCredits": "TAX ON ALIEN KILLS",
+  "withheldFromAlienBounties": "Withheld from the credits every member earns by destroying aliens. Quest pay is never taxed. The game limits it to {CLAN_TAX_MIN}-{CLAN_TAX_MAX}%; it can change once every 24 hours and every member is told.",
   "bank": "BANK",
   "theBankOnlyPays": "The bank only pays for clan rifts. Nobody can withdraw from it.",
   "openWave": "OPEN · wave {wave}/{length} · {lives, plural, one {# life} other {# lives}}",
@@ -46,7 +46,7 @@
   "foundCr": "Found · {cost} CR",
   "maxLevel": "MAX LEVEL",
   "invite": "Invite",
-  "paidIntoTheBank": "Paid into the bank",
+  "paidIntoTheBank": "Paid into the bank (tax from alien kills + donations)",
   "noPermissions": "no permissions",
   "disbandClan": "Disband clan",
   "leaveClan": "Leave clan",
@@ -67,5 +67,8 @@
   "online": "Online",
   "offline": "Offline",
   "donate": "Donate",
-  "shipOf": "Ship of {name}"
+  "shipOf": "Ship of {name}",
+  "unknownPilot": "Unknown pilot",
+  "roleOf": "Role of {name}",
+  "removeMember": "Remove {name}"
 }
