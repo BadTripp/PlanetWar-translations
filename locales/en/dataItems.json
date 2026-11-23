@@ -40,6 +40,10 @@
   "expander-2.desc": "+5 extra slots. One expander per ship.",
   "expander-3.name": "Slot Expander III",
   "expander-3.desc": "+10 extra slots. One expander per ship.",
+  "extra-pulse.name": "Pulse Barrier",
+  "extra-pulse.desc": "Makes your ship invulnerable for 2 s (uses a charge, 20 s recharge)",
+  "extra-atomic.name": "Atomic Bomb",
+  "extra-atomic.desc": "Detonates around your ship: 40,000 damage to every enemy in range (uses a charge, 30 s recharge)",
   "extra-launcher.name": "Salvo Autopilot",
   "extra-launcher.desc": "Loads and fires the salvo launcher during combat."
 }

@@ -46,5 +46,12 @@
   "cloaksYourShipUntil": "Cloaks your ship until you attack. Uses one charge.",
   "shieldSabotageAmmoDrains": "Shield sabotage ammo: drains the target shield into yours.",
   "slot2": "{kind} · SLOT {hk}",
-  "coolingDown": "Cooling down…"
+  "coolingDown": "Cooling down…",
+  "pulseCharge": "Pulse Charge",
+  "atomicCharge": "Atomic Charge",
+  "pulseBarrierTip": "Makes your ship invulnerable for {seconds} s. Uses one charge.",
+  "atomicBombTip": "Detonates around your ship, hitting every enemy within {radius} px. Uses one charge.",
+  "recharge": "Recharge: {seconds} s",
+  "fireworkCharge": "Planet War Firework",
+  "fireworkTip": "Launches a firework that spells PLANET WAR in the sky. No module needed. Uses one charge."
 }

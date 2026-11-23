@@ -106,6 +106,10 @@
   "rewardFeed": "Movable feed",
   "rewardFeedPosition": "Reward feed position",
   "moveRewardFeed": "Drag to move the reward feed · double-click to reset",
+  "rewardFeedHintTitle": "Reward feed on",
+  "rewardFeedHintBody": "Loot now appears here. Drag the dotted grip above this box to move it; double-click the grip to reset. Switch back anytime in Settings → Reward display.",
+  "rewardFeedHintSample": "Sample reward",
   "myData": "My data<small>Download a copy of your data or delete your account.</small>",
-  "myDataOpen": "Manage"
+  "myDataOpen": "Manage",
+  "overlaySize": "Overlay size"
 }

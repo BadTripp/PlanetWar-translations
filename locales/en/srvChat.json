@@ -6,5 +6,7 @@
   "joinASquadBefore": "Join a squad before using Squad chat.",
   "thatPilotIsNo": "That pilot is no longer online.",
   "mutedFor": "You are muted in chat for another {minutes, plural, one {# minute} other {# minutes}}. Squad chat still works.",
-  "staffMessage": "Staff message: {text}"
+  "restartSoon": "The server will restart in {minutes, plural, one {# minute} other {# minutes}}. Return to a portal or a base before then.",
+  "restartIn30": "30 seconds until the server restarts.",
+  "restartCancelled": "The restart has been cancelled. You can keep playing."
 }

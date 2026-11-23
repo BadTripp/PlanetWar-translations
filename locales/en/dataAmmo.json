@@ -12,5 +12,8 @@
   "hst.name": "Salvo Rocket II",
   "ubr.name": "Salvo Rocket III",
   "mine.name": "Proximity Mine",
-  "cloak.name": "Cloak Charge"
+  "cloak.name": "Cloak Charge",
+  "pulse.name": "Pulse Charge",
+  "atomic.name": "Atomic Charge",
+  "firework.name": "Planet War Firework"
 }

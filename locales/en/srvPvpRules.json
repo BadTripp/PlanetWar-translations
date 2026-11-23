@@ -6,5 +6,7 @@
   "youCannotAttackA": "You cannot attack a squad member.",
   "youCannotAttackA2": "You cannot attack a clan member.",
   "alliedPilotsAreProtected": "Allied pilots are protected in this event.",
-  "alliedPilotsAreProtected2": "Allied pilots are protected in low sectors."
+  "alliedPilotsAreProtected2": "Allied pilots are protected in low sectors.",
+  "youAreAboveLevel": "Only pilots up to level {max} can fight here.",
+  "pilotsAboveLevelAre": "Pilots above level {max} cannot be attacked here."
 }

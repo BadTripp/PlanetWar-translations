@@ -16,5 +16,6 @@
   "copyIsNotAvailable": "Copy is not available here",
   "isIn": "{name} is in {name2}",
   "wavesSurvived": "{length, plural, one {# wave} other {# waves}} survived",
-  "previewCleared": "[preview] {name} cleared"
+  "previewCleared": "[preview] {name} cleared",
+  "clanRequestReceived": "New clan join request"
 }

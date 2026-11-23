@@ -18,5 +18,18 @@
   "clickOrPressJ": "CLICK OR PRESS J · JUMP TO {name}",
   "vsyncOnMonitorLimited": "  (VSync on: monitor-limited)",
   "cap": "  (cap {fpsCap})",
-  "uncapped": "  (uncapped)"
+  "uncapped": "  (uncapped)",
+  "vsyncShort": "VSync",
+  "capShort": "cap {fpsCap}",
+  "uncappedShort": "uncapped",
+  "perfFps": "FPS",
+  "perfCapacity": "Capacity",
+  "perfCpu": "CPU",
+  "perfGpu": "GPU",
+  "perfWorst": "Worst 1%",
+  "perfPing": "Ping",
+  "perfDraws": "Draw calls",
+  "perfEntities": "Entities · particles",
+  "perfResolution": "Resolution",
+  "perfNa": "n/a"
 }

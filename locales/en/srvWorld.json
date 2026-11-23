@@ -40,5 +40,15 @@
   "targetOutOfRange": "Target out of range.",
   "nowFlyFor": "You now fly for {company}. Active missions were dropped.",
   "companyChangeCooldown": "You changed company recently. You can change again in {days, plural, one {# day} other {# days}}.",
-  "notEnoughAetherForCompany": "Not enough Aether: changing company costs {cost, number}."
+  "notEnoughAetherForCompany": "Not enough Aether: changing company costs {cost, number}.",
+  "equipThePulseBarrier": "Equip the Pulse Barrier.",
+  "equipTheAtomicBomb": "Equip the Atomic Bomb.",
+  "noPulseChargesBuy": "No pulse charges: buy some in the Shop.",
+  "noAtomicChargesBuy": "No atomic charges: buy some in the Shop.",
+  "cpuOfflineInBase": "This CPU is offline inside the base shield.",
+  "cpuRecharging": "CPU recharging: {seconds} s.",
+  "pulseBarrierActive": "Pulse Barrier active: you are invulnerable.",
+  "atomicBombDetonated": "{count, plural, =0 {Atomic Bomb detonated: no enemies in range.} one {Atomic Bomb detonated: # enemy hit.} other {Atomic Bomb detonated: # enemies hit.}}",
+  "noFireworkChargesBuy": "No fireworks: buy some in the Shop.",
+  "levelTooHigh": "{name} is only open to pilots up to level {max}."
 }

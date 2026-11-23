@@ -35,5 +35,13 @@
   "newMembersCanEnter": "New members can enter clan rifts after 24 hours ({wait} h left).",
   "yourClanRoleDoes": "Your clan role does not allow this.",
   "clanName324Letters": "Clan name: 3-24 letters, digits, spaces, apostrophes or dashes.",
-  "clanTag24Letters": "Clan tag: 2-4 letters or digits."
+  "clanTag24Letters": "Clan tag: 2-4 letters or digits.",
+  "clanReachedLevel": "The clan reached level {level}.",
+  "thatClanNoLonger": "That clan no longer exists.",
+  "youCanOnlyHave": "You can have at most {CLAN_REQUEST_PER_PILOT} open requests: cancel one first.",
+  "thatClanHasTooMany": "That clan has too many open requests. Try again later.",
+  "asksToJoinThe": "{name} (lv {level}) asks to join the clan.",
+  "requestSentTo": "Request sent to [{tag}] {name}.",
+  "thatRequestIsGone": "That request is no longer open.",
+  "requestDeclined": "[{tag}] {name} declined your request to join."
 }
