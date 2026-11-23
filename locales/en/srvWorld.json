@@ -38,5 +38,7 @@
   "equipDenied": "You can change equipment only at the base or on a safe gate, and not within {seconds} seconds of being hit.",
   "cannotFireInsideShield": "You cannot fire from inside the base shield.",
   "targetOutOfRange": "Target out of range.",
-  "nowFlyFor": "You now fly for {company}. Active missions were dropped."
+  "nowFlyFor": "You now fly for {company}. Active missions were dropped.",
+  "companyChangeCooldown": "You changed company recently. You can change again in {days, plural, one {# day} other {# days}}.",
+  "notEnoughAetherForCompany": "Not enough Aether: changing company costs {cost, number}."
 }

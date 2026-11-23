@@ -10,5 +10,12 @@
   "configurationIsCoolingDown": "Configuration is cooling down…",
   "configurationActive": "Configuration {h} active",
   "noFreeDroneModule": "No free drone module slot ({length}/{h}).",
-  "equipADroneFirst": "Equip a drone first: drones provide the module slots."
+  "equipADroneFirst": "Equip a drone first: drones provide the module slots.",
+  "outfitSaved": "Build \"{name}\" saved.",
+  "outfitDeleted": "Build deleted.",
+  "outfitShipGone": "Build \"{name}\": that ship is no longer in your hangar.",
+  "outfitWorn": "Build \"{name}\" fitted.",
+  "outfitWornMissing": "Build \"{name}\" fitted. {missing, plural, one {# module is} other {# modules are}} no longer available.",
+  "bestAlready": "Already the strongest fit.",
+  "bestFitted": "Best modules fitted ({count, plural, one {# change} other {# changes}})."
 }

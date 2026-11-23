@@ -24,5 +24,12 @@
   "joinThePlanetWar": "Join the Planet War Discord (opens in a new tab)",
   "discord": "Discord",
   "steamCancelled": "Steam sign-in was cancelled.",
-  "steamFailed": "Steam sign-in did not work. Try again."
+  "steamFailed": "Steam sign-in did not work. Try again.",
+  "nameTaken": "That pilot name is already taken. Choose another one.",
+  "nameInvalid": "That name can't be used. Use at least one letter or number.",
+  "nameReserved": "That name is reserved. Choose another one.",
+  "nameCheckFailed": "Couldn't check the name. Try again in a moment.",
+  "terms": "Terms",
+  "privacy": "Privacy",
+  "legalNav": "Legal"
 }

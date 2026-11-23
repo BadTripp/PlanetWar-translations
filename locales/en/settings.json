@@ -105,5 +105,7 @@
   "rewardAboveShip": "Above the ship",
   "rewardFeed": "Movable feed",
   "rewardFeedPosition": "Reward feed position",
-  "moveRewardFeed": "Drag to move the reward feed · double-click to reset"
+  "moveRewardFeed": "Drag to move the reward feed · double-click to reset",
+  "myData": "My data<small>Download a copy of your data or delete your account.</small>",
+  "myDataOpen": "Manage"
 }

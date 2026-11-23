@@ -29,5 +29,6 @@
   "saving": "Saving…",
   "pilotName": "Pilot name",
   "shownToOtherPilots": "Shown to other pilots. Up to 24 characters.",
-  "chooseAPilotName": "Choose a pilot name."
+  "chooseAPilotName": "Choose a pilot name.",
+  "legalConsent": "By continuing you confirm you are at least 14 years old and accept the <a href=\"/terms.html\" target=\"_blank\" rel=\"noopener\">Terms</a> and the <a href=\"/privacy.html\" target=\"_blank\" rel=\"noopener\">Privacy Policy</a>."
 }

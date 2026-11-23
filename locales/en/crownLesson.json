@@ -1,0 +1,13 @@
+{
+  "riftLessonAbyssalCrown": "RIFT LESSON · ABYSSAL CROWN",
+  "theCrownIsOpen": "The Abyssal Crown is open",
+  "squadContentRaidBosses": "The Crown is squad content: {waves} waves with raid bosses, balanced for {maxPilots} pilots. You can enter alone, but fewer than {maxPilots} pilots will struggle with the later waves.",
+  "formYourSquad": "Form your squad",
+  "everyPilotNeedsLevel": "Every pilot who joins must be level {minLevel} or higher and in your squad. Invite pilots from the Squad window or by clicking their name in chat. The Crown holds up to {maxPilots} pilots at once.",
+  "enterTogether": "Enter together",
+  "thePortalIsIn": "The portal is in your company's X-1 sector. Start the run yourself: your squad mates see the portal only once your run is open, and they pay no fragments, keys or Aether to join. Then everyone flies into it.",
+  "wavesLivesAndRewards": "Waves, lives and rewards",
+  "betweenWavesTheLeft": "Between waves the left portal leaves (your progress is kept) and the right portal starts the next wave. Once a wave starts nobody can leave. The squad shares {lives} lives. The reward is paid in parts at checkpoints and at the end, and the final payout needs at least {need} waves cleared.",
+  "next": "Next",
+  "gotIt": "Got it"
+}

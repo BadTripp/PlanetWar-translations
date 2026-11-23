@@ -17,5 +17,6 @@
   "loginBonus": "Login bonus",
   "newPathStartedDay": "New path started · day 1/30",
   "dayOf30": "Day {day}/30{restored, plural, =0 {} one { · # skipped day restored} other { · # skipped days restored}}",
-  "restoringNeedsAether": "Restoring needs {cost, number} Aether."
+  "restoringNeedsAether": "Restoring needs {cost, number} Aether.",
+  "milestoneLog": "{claimed, plural, one {Milestone reward claimed} other {# milestone rewards claimed}} · {items}"
 }

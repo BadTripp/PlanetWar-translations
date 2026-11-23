@@ -109,8 +109,9 @@
   "waves": "Waves",
   "rewards": "Rewards",
   "openRiftsOPick": "Open Rifts (O), pick how many probes and press Probe. Rift keys are spent first, automatically; once they run out each probe costs {RIFT_PROBE_COST} Aether, only if you allow it. Each probe has a {partChance}% chance to yield a fragment (one is guaranteed after {RIFT_PITY} probes without one); probes aimed at the other rifts can also drop its fragments at half that chance, and every probe returns a side reward: ammo, credits, Aether, data cores or rift keys. {parts} fragments open the rift.",
-  "anOpenRiftPlaces": "An open rift places a portal in your company X-1 sector. Only you and your squad can see and use it. The arena is private; leaving keeps the wave you reached.",
+  "anOpenRiftPlaces": "An open rift places a portal in your company X-1 sector. Only you can see and use it, except the Abyssal Crown, which your squad can join. The arena is private; leaving keeps the wave you reached.",
   "identity": "Identity",
   "motto": "{story} Motto: \"{motto}\"",
-  "homeSector": "Home sector"
+  "homeSector": "Home sector",
+  "recipeText": "Refine {ingredients} to produce {ore}."
 }

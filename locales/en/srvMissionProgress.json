@@ -1,4 +1,6 @@
 {
   "beaconReached": "Beacon {progress}/{count} reached · {name}",
-  "missionComplete": "Mission complete"
+  "missionComplete": "Mission complete",
+  "missionCompleteHonorLog": "Mission complete: {name} · +{credits} CR · +{xp} XP · +{uridium} AE · +{honor} honor",
+  "missionCompleteLog": "Mission complete: {name} · +{credits} CR · +{xp} XP · +{uridium} AE"
 }

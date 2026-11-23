@@ -1,0 +1,16 @@
+{
+  "title": "My data",
+  "intro": "You can download a copy of the data we hold about your account or delete it for good.",
+  "privacyPolicy": "Privacy Policy",
+  "download": "Download my data",
+  "preparing": "Preparing your data…",
+  "downloaded": "Your data was downloaded.",
+  "failed": "Something went wrong. Try again in a moment.",
+  "deleteTitle": "Delete my account",
+  "deleteWarn": "This permanently erases your pilot, ships, items and sign-in. It cannot be undone.",
+  "confirmLabel": "Type your pilot name to confirm",
+  "deleteButton": "Delete account",
+  "deleting": "Deleting your account…",
+  "nameMismatch": "That is not your pilot name.",
+  "close": "Close"
+}

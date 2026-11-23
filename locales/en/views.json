@@ -63,8 +63,8 @@
   "inviteAPilotBy": "Invite a pilot by name",
   "invite": "Invite",
   "squadMembers": "Squad members",
-  "costsCr": "Costs {COMPANY_SWITCH_COST} CR.",
-  "freeDuringThePlaytest": "Free during the playtest.",
   "confirmChange": "Confirm change",
-  "leaveSquad": "Leave squad"
+  "leaveSquad": "Leave squad",
+  "companyChangeCost": "Costs {cost} Aether and halves your honor (you lose {honor}).",
+  "companyChangeWait": "Available again in {days, plural, one {# day} other {# days}}."
 }

@@ -18,7 +18,7 @@
   "clearReward": "CLEAR REWARD",
   "open": "OPEN",
   "savedAtWave": "Saved at wave {wave} · {lives, plural, one {# life} other {# lives}} left",
-  "flyToItWith": "Fly to it with your squad to enter.",
+  "flyToItWith": "Fly to the portal to enter.",
   "probes": "Probes",
   "probe": "PROBE",
   "aetherFallback": "<i></i>Aether fallback",
