@@ -111,5 +111,7 @@
   "rewardFeedHintSample": "Sample reward",
   "myData": "My data<small>Download a copy of your data or delete your account.</small>",
   "myDataOpen": "Manage",
-  "overlaySize": "Overlay size"
+  "overlaySize": "Overlay size",
+  "exitGame": "Exit game",
+  "exitGameRow": "Exit<small>Closes Planet War.</small>"
 }

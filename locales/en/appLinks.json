@@ -1,0 +1,7 @@
+{
+  "label": "Get the app",
+  "windows": "Windows",
+  "linux": "Linux",
+  "android": "Android",
+  "download": "Download for {platform}"
+}
