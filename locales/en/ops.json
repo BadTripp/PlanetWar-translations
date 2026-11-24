@@ -10,7 +10,7 @@
   "daily.wave.name": "Rift incursion",
   "daily.wave.desc": "Clear {count} waves inside any rift, alone or with your squad or clan.",
   "daily.pvp.name": "Enemy contact",
-  "daily.pvp.desc": "Destroy {count} enemy-company pilots. Each pilot counts once every 15 minutes.",
+  "daily.pvp.desc": "Destroy {count} enemy-company pilots.",
   "weekly.kill.name": "Extermination · {alien}",
   "weekly.kill.desc": "Destroy {count} {alien} in any sector.",
   "weekly.sweep.name": "Long patrol",
@@ -26,5 +26,5 @@
   "weekly.wave.name": "Rift campaign",
   "weekly.wave.desc": "Clear {count} waves inside any rift, alone or with your squad or clan.",
   "weekly.pvp.name": "Front line",
-  "weekly.pvp.desc": "Destroy {count} enemy-company pilots. Each pilot counts once every 15 minutes."
+  "weekly.pvp.desc": "Destroy {count} enemy-company pilots."
 }

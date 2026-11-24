@@ -10,7 +10,6 @@
   "collectMoreBonusBoxes": "Collect {left} more bonus boxes",
   "beaconFly": "Beacon {p}/{length}: fly to {pt}/{pt2} (within {SURVEY_RADIUS})",
   "destroyMoreEnemyPilots": "Destroy {left} more enemy pilots",
-  "samePilotCountsOnce": "Same pilot counts once every 15 min",
   "sectorBossesRespawnEvery": "Sector bosses respawn every 5 minutes",
   "collectMoreAlienWrecks": "Collect {left} more alien wrecks",
   "refineMoreAtThe": "Refine {left} more {q} at the refinery",
