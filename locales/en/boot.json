@@ -8,5 +8,6 @@
   "error": "Error: {message}",
   "updating": "Server update in progress — reconnecting…",
   "reconnecting": "Connection lost — reconnecting…",
-  "online": "● {online} online"
+  "online": "● {online} online",
+  "idle": "Disconnected for inactivity."
 }

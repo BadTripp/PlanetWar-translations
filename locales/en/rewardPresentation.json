@@ -14,5 +14,8 @@
   "unlocked": "Unlocked!",
   "rewards": "✦ {count, plural, one {# REWARD} other {# REWARDS}}",
   "reward": "✦ REWARD",
-  "chest": "<i class=\"cr-chest-ic\">▣</i><span>Chest</span>"
+  "chest": "<i class=\"cr-chest-ic\">▣</i><span>Chest</span>",
+  "riftSealed": "✦ RIFT SEALED",
+  "riftCache": "Rift cache",
+  "ammo": "Ammo"
 }

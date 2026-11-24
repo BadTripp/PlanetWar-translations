@@ -1,3 +1,4 @@
 {
-  "joinAClanFirst": "Join a clan first."
+  "joinAClanFirst": "Join a clan first.",
+  "idleWarning": "You seem to be away. You will be disconnected in about {minutes} minutes unless you move or act."
 }
