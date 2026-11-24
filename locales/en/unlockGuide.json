@@ -72,6 +72,6 @@
   "later": "Later",
   "gotIt": "Got it",
   "howItWorks": "How it works",
-  "ctrlFitBest": "Shortcut: hold Ctrl and click a laser, shield, engine or drone to fit the strongest ones of that kind.",
+  "ctrlFitBest": "Shortcut: hold Ctrl and click a laser, shield, engine or drone to fit the strongest ones of that kind. Hold Ctrl and click a fitted item to remove every item of that kind from its group.",
   "touchFitBest": "Shortcut: pick a category in the inventory, then tap Fit best to fill your slots with the strongest ones."
 }

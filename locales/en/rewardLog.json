@@ -4,5 +4,8 @@
   "ae": "+{n} AE",
   "cores": "+{n} Data cores",
   "keys": "+{n, plural, one {# rift key} other {# rift keys}}",
-  "honor": "+{n} honor"
+  "honor": "+{n} honor",
+  "kill": "{name} destroyed · {rewards}",
+  "killNoReward": "{name} destroyed",
+  "collected": "Collected · {rewards}"
 }
