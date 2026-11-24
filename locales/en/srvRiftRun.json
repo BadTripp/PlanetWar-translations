@@ -4,5 +4,11 @@
   "checkpointWave": "Checkpoint · wave {wave}",
   "wavesSurvived": "{length, plural, one {# wave} other {# waves}} survived",
   "riftClearedCollectYour": "Rift cleared! Collect your loot, then take the exit portal when you are ready.",
-  "destroyedLivesLeft": "{name} was destroyed: {lives, plural, one {# life} other {# lives}} left."
+  "destroyedLivesLeft": "{name} was destroyed: {lives, plural, one {# life} other {# lives}} left.",
+  "checkpointWaveFull": "Checkpoint · wave {wave} · first-clear Aether",
+  "checkpointWaveRepeat": "Checkpoint · wave {wave} · repeat run: ammo cache at the end",
+  "wavesSurvivedFull": "{length, plural, one {# wave} other {# waves}} survived · first-clear Aether",
+  "ammoCache": "{tier, select, common {Common} uncommon {Uncommon} rare {Rare} epic {Epic} other {JACKPOT}} laser cache · {items}",
+  "runPaysFullAether": "First clear: this run pays the rift's Aether ({aether} AE left). After that, every clear drops a random laser-ammo cache instead.",
+  "runPaysAmmoCache": "Repeat run: this rift's Aether is already yours. Clearing it drops a random laser-ammo cache, bigger in harder rifts."
 }

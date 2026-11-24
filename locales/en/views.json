@@ -66,5 +66,6 @@
   "confirmChange": "Confirm change",
   "leaveSquad": "Leave squad",
   "companyChangeCost": "Costs {cost} Aether and halves your honor (you lose {honor}).",
+  "companyChangeFree": "Your first company change is free. It halves your honor (you lose {honor}).",
   "companyChangeWait": "Available again in {days, plural, one {# day} other {# days}}."
 }
