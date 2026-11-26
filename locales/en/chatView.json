@@ -36,6 +36,8 @@
   "chooseAnotherPilot": "Choose another pilot",
   "staff": "Staff",
   "joined": "{name} joined {company}",
+  "cameOnline": "{name} is online",
+  "pvpKill": "{killer} destroyed {victim}",
   "viewProfile": "View profile",
   "profile": "Pilot profile",
   "profileLoading": "Loading profile...",
