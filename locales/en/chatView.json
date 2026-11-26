@@ -35,6 +35,7 @@
   "whisper3": "WHISPER",
   "chooseAnotherPilot": "Choose another pilot",
   "staff": "Staff",
+  "joined": "{name} joined {company}",
   "viewProfile": "View profile",
   "profile": "Pilot profile",
   "profileLoading": "Loading profile...",
