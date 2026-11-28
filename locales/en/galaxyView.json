@@ -26,5 +26,7 @@
   "view": "View",
   "station3": "Station",
   "level": "Level {need}+",
-  "largeSector": "Large sector"
+  "largeSector": "Large sector",
+  "abyssRules": "Abyss rules",
+  "abyssRulesText": "Stronger aliens, bigger rewards, no safe zones. Nests attack together and stalkers hunt you. Kills fill your expedition loot: leave through a gate to bank it, lose it if destroyed. Squads earn more."
 }

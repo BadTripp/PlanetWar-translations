@@ -42,5 +42,11 @@
   "notEnoughCredits": "· <b>not enough credits</b>",
   "bidCr": "Bid {v} CR",
   "needsShipFirst": "Needs the {ship} first",
-  "theShip": "ship"
+  "theShip": "ship",
+  "lastRound": "Last round",
+  "histLot": "Lot",
+  "histWinner": "Winner",
+  "histPrice": "Winning bid",
+  "histYou": "You",
+  "histUnsold": "No bids"
 }

@@ -61,5 +61,6 @@
   "levelRankCareerAnd": "Level, rank, career and next unlock.",
   "spendDataCoresOn2": "Spend data cores on skills. Unlocks at level {sheet}.",
   "reportBugFeedback": "Report bug / feedback",
-  "tellUsWhatBroke": "Tell us what broke or what you would change."
+  "tellUsWhatBroke": "Tell us what broke or what you would change.",
+  "expeditionLoot": "Expedition loot: leave the Abyss through a gate to bank it, or lose it if your ship is destroyed"
 }

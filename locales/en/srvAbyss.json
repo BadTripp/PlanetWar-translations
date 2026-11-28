@@ -1,0 +1,4 @@
+{
+  "expeditionLost": "Your ship was destroyed: expedition loot lost ({xp, number} XP · {credits, number} CR · {aether, number} Aether).",
+  "squadBonus": "Abyss squad: {n} pilots fighting together, +{pct}% rewards for each of you."
+}
